@@ -171,6 +171,8 @@ Découvrez l’évolution des étoiles attribuées à ce projet et suivez sa cro
 
 Chaque étoile compte. Merci pour votre soutien. Vos encouragements nourrissent notre motivation et contribuent à l’évolution du projet. ✨
 
+<p align="right">(<a href="#top">🔼 Back to top</a>)</p>
+
 ## 📚 License
 
 Ce projet est sous licence GNU Affero General Public License, Version 3.0 (AGPL-3.0). Pour plus de détails, veuillez consulter le fichier de licence dans le dépôt: [Read the license on GitHub](https://github.com/franckferman/Scraping-Deputes-France/blob/stable/LICENSE)
