@@ -11,9 +11,8 @@ depuis le site de l'Assemblée nationale.
 - Option d'affichage sous forme de tableau ASCII
 
 Utilisation :
-  python3 scrape_deputes_france.py --help  # Afficher l'aide complète
+  python3 scrape_deputes_france.py --help
 """
-
 
 import argparse
 import concurrent.futures
@@ -27,7 +26,6 @@ from bs4 import BeautifulSoup
 
 BASE_URL: str = "https://www.assemblee-nationale.fr"
 DEPUTES_URL: str = "https://www2.assemblee-nationale.fr/deputes/liste/regions"
-
 
 # Liste des régions (structurées en <h2> sur la page) valides sur le site de l'Assemblée nationale
 VALID_REGIONS: List[str] = [

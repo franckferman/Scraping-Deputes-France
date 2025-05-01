@@ -43,7 +43,7 @@
 
 L'idée de ce projet est née d'un besoin simple : pouvoir récupérer facilement les emails des députés d'une région donnée pour leur envoyer des mails groupés, notamment dans un cadre politique ou citoyen. Que ce soit pour interpeller les élus sur une cause, faire des demandes officielles, ou simplement avoir accès aux coordonnées publiques, cet outil automatise cette tâche.
 
-J'ai notamment utilisé `Scraping-Deputes-France` dans le cadre du projet [LettreCitoyenne-Narcotrafic](https://github.com/franckferman/Scraping-Deputes-France), une initiative citoyenne visant à faciliter l'expression de l'opposition à la proposition de loi intitulée "Proposition de loi visant à sortir la France du piège du narcotrafic". Ce site permet aux citoyens de contacter directement leurs députés pour exprimer leurs préoccupations sur les implications de cette loi sur les libertés individuelles.
+J'ai notamment utilisé `Scraping-Deputes-France` dans le cadre du projet [LettreCitoyenne-Narcotrafic](https://github.com/franckferman/LettreCitoyenne-Narcotrafic), une initiative citoyenne visant à faciliter l'expression de l'opposition à la proposition de loi intitulée "Proposition de loi visant à sortir la France du piège du narcotrafic". Ce site permet aux citoyens de contacter directement leurs députés pour exprimer leurs préoccupations sur les implications de cette loi sur les libertés individuelles.
 
 ### ⚙️ Fonctionnalités principales de _Scraping-Deputes-France_
 
