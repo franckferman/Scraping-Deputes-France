@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Annuaire des député·e·s — Assemblée nationale</title>
+<meta name="description" content="Annuaire recherchable des député·e·s français : région, département, groupe, circonscription et contact institutionnel. Données publiques de l'Assemblée nationale.">
+<style>
+  :root {
+    color-scheme: light;
+    --plane:        #f9f9f7;
+    --surface-1:    #fcfcfb;
+    --text-primary: #0b0b0b;
+    --text-secondary:#52514e;
+    --muted:        #898781;
+    --gridline:     #e1e0d9;
+    --baseline:     #c3c2b7;
+    --series-1:     #2a78d6;
+    --series-track: #eef1f5;
+    --border:       rgba(11,11,11,0.10);
+    --good:         #006300;
+    --focus:        #2a78d6;
+    --radius: 12px;
+    --maxw: 1140px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --plane:        #0d0d0d;
+      --surface-1:    #1a1a19;
+      --text-primary: #ffffff;
+      --text-secondary:#c3c2b7;
+      --muted:        #898781;
+      --gridline:     #2c2c2a;
+      --baseline:     #383835;
+      --series-1:     #3987e5;
+      --series-track: #232323;
+      --border:       rgba(255,255,255,0.10);
+      --good:         #0ca30c;
+      --focus:        #3987e5;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --plane:        #0d0d0d;
+    --surface-1:    #1a1a19;
+    --text-primary: #ffffff;
+    --text-secondary:#c3c2b7;
+    --muted:        #898781;
+    --gridline:     #2c2c2a;
+    --baseline:     #383835;
+    --series-1:     #3987e5;
+    --series-track: #232323;
+    --border:       rgba(255,255,255,0.10);
+    --good:         #0ca30c;
+    --focus:        #3987e5;
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--plane);
+    color: var(--text-primary);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    line-height: 1.5;
+  }
+  a { color: var(--series-1); }
+  .wrap { max-width: var(--maxw); margin: 0 auto; padding: 24px 20px 64px; }
+
+  /* Header */
+  header.top { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  h1 { font-size: clamp(1.4rem, 3.2vw, 2rem); margin: 0 0 4px; letter-spacing: -0.01em; }
+  .subtitle { color: var(--text-secondary); margin: 0; max-width: 62ch; }
+  .theme-btn {
+    flex: none; cursor: pointer; border: 1px solid var(--border); background: var(--surface-1);
+    color: var(--text-secondary); border-radius: 999px; padding: 8px 14px; font-size: .85rem;
+  }
+  .theme-btn:hover { color: var(--text-primary); }
+
+  /* Meta bar */
+  .metabar { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 22px; margin: 22px 0 8px; }
+  .hero { display: flex; align-items: baseline; gap: 10px; }
+  .hero .n { font-size: 2.6rem; font-weight: 700; line-height: 1; }
+  .hero .lbl { color: var(--text-secondary); }
+  .meta-note { color: var(--muted); font-size: .85rem; }
+  .downloads { display: flex; gap: 8px; margin-left: auto; }
+  .chip {
+    text-decoration: none; border: 1px solid var(--border); background: var(--surface-1);
+    color: var(--text-secondary); border-radius: 999px; padding: 6px 12px; font-size: .82rem;
+  }
+  .chip:hover { color: var(--text-primary); }
+
+  .disclaimer {
+    font-size: .82rem; color: var(--muted); border-left: 3px solid var(--gridline);
+    padding: 4px 0 4px 12px; margin: 6px 0 26px; max-width: 90ch;
+  }
+
+  /* Cards / panels */
+  .panel { background: var(--surface-1); border: 1px solid var(--border); border-radius: var(--radius); }
+  section.charts { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 30px; }
+  @media (max-width: 720px) { section.charts { grid-template-columns: 1fr; } }
+  .chart { padding: 16px 18px; }
+  .chart h2 { font-size: .95rem; margin: 0 0 2px; }
+  .chart .cap { color: var(--muted); font-size: .78rem; margin: 0 0 14px; }
+
+  .bars { display: flex; flex-direction: column; gap: 8px; }
+  .bar-row { display: grid; grid-template-columns: 40% 1fr auto; align-items: center; gap: 10px; }
+  .bar-row .bl { color: var(--text-secondary); font-size: .82rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { background: var(--series-track); border-radius: 4px; height: 12px; position: relative; overflow: hidden; }
+  .bar-fill { background: var(--series-1); height: 100%; border-radius: 0 4px 4px 0; min-width: 2px; }
+  .bar-row .bv { color: var(--text-secondary); font-size: .82rem; font-variant-numeric: tabular-nums; min-width: 2.2em; text-align: right; }
+  .bar-row:hover .bl, .bar-row:hover .bv { color: var(--text-primary); }
+
+  /* Filters */
+  .filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 14px; }
+  .filters .grow { flex: 1 1 240px; }
+  input[type="search"], select {
+    width: 100%; font: inherit; color: var(--text-primary); background: var(--surface-1);
+    border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px;
+  }
+  select { min-width: 170px; }
+  input[type="search"]::placeholder { color: var(--muted); }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .btn-clear { cursor: pointer; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-secondary); border-radius: 10px; padding: 10px 14px; font: inherit; }
+  .btn-clear:hover { color: var(--text-primary); }
+
+  .count { color: var(--text-secondary); font-size: .88rem; margin: 4px 2px 16px; }
+
+  /* Deputy grid */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+  .dep { padding: 15px 16px; display: flex; flex-direction: column; gap: 8px; }
+  .dep .name { font-weight: 650; letter-spacing: -0.01em; }
+  .dep .rows { display: flex; flex-direction: column; gap: 3px; font-size: .86rem; color: var(--text-secondary); }
+  .dep .rows .k { color: var(--muted); }
+  .dep .grp {
+    display: inline-block; font-size: .76rem; color: var(--text-secondary);
+    border: 1px solid var(--border); border-radius: 999px; padding: 2px 9px; align-self: flex-start;
+  }
+  .dep .actions { margin-top: auto; padding-top: 6px; }
+  .contact {
+    display: inline-flex; align-items: center; gap: 7px; text-decoration: none;
+    color: #fff; background: var(--series-1); border-radius: 9px; padding: 8px 13px; font-size: .85rem; font-weight: 550;
+  }
+  .contact:hover { filter: brightness(1.06); }
+  .contact.disabled { background: var(--series-track); color: var(--muted); pointer-events: none; }
+
+  .empty { color: var(--muted); padding: 40px 8px; text-align: center; }
+  .status { padding: 30px 8px; color: var(--text-secondary); }
+
+  footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--gridline); color: var(--muted); font-size: .82rem; }
+  footer a { color: var(--text-secondary); }
+
+  /* Tooltip */
+  #tip {
+    position: fixed; z-index: 20; pointer-events: none; opacity: 0; transition: opacity .08s;
+    background: var(--text-primary); color: var(--plane); font-size: .78rem; padding: 5px 9px;
+    border-radius: 7px; white-space: nowrap; transform: translate(-50%, -130%);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Annuaire des député·e·s</h1>
+      <p class="subtitle">Retrouvez votre député·e à l'Assemblée nationale et contactez-le·la par son adresse institutionnelle — pour vos démarches et courriers citoyens.</p>
+    </div>
+    <button class="theme-btn" id="theme" type="button" aria-label="Changer de thème">◐ Thème</button>
+  </header>
+
+  <div class="metabar">
+    <div class="hero"><span class="n" id="hero-n">—</span><span class="lbl">député·e·s</span></div>
+    <span class="meta-note" id="meta-note"></span>
+    <div class="downloads">
+      <a class="chip" href="./data/deputes.json" download>⬇ JSON</a>
+      <a class="chip" href="./data/deputes.csv" download>⬇ CSV</a>
+    </div>
+  </div>
+  <p class="disclaimer">Données publiques issues du site de l'Assemblée nationale (adresses de mandat institutionnelles <code>@assemblee-nationale.fr</code>). Aucune donnée personnelle privée n'est collectée.</p>
+
+  <section class="charts" id="charts" hidden>
+    <div class="panel chart">
+      <h2>Sièges par groupe</h2>
+      <p class="cap">Répartition des député·e·s par groupe parlementaire.</p>
+      <div class="bars" id="chart-groupe"></div>
+    </div>
+    <div class="panel chart">
+      <h2>Député·e·s par région</h2>
+      <p class="cap">Nombre d'élu·e·s par région (métropole, outre-mer, étranger).</p>
+      <div class="bars" id="chart-region"></div>
+    </div>
+  </section>
+
+  <div class="filters">
+    <div class="grow">
+      <input type="search" id="q" placeholder="Rechercher un nom…" autocomplete="off" aria-label="Rechercher un député par son nom">
+    </div>
+    <select id="f-region" aria-label="Filtrer par région"><option value="">Toutes les régions</option></select>
+    <select id="f-groupe" aria-label="Filtrer par groupe"><option value="">Tous les groupes</option></select>
+    <button class="btn-clear" id="clear" type="button">Réinitialiser</button>
+  </div>
+
+  <p class="count" id="count" aria-live="polite"></p>
+
+  <div id="status" class="status">Chargement des données…</div>
+  <div class="grid" id="grid" role="list"></div>
+
+  <footer>
+    Source : <a href="https://www.assemblee-nationale.fr/" rel="noopener" target="_blank">assemblee-nationale.fr</a> ·
+    Données extraites par <a href="https://github.com/franckferman/Scraping-Deputes-France" rel="noopener" target="_blank">Scraping-Deputes-France</a> ·
+    <span id="foot-date"></span>
+  </footer>
+</div>
+
+<div id="tip" role="status"></div>
+
+<script>
+(function () {
+  "use strict";
+
+  // ---- Thème (mémorisé) ----
+  var root = document.documentElement;
+  try {
+    var saved = localStorage.getItem("theme");
+    if (saved === "dark" || saved === "light") root.setAttribute("data-theme", saved);
+  } catch (e) {}
+  document.getElementById("theme").addEventListener("click", function () {
+    var isDark = getComputedStyle(root).colorScheme.indexOf("dark") !== -1;
+    var next = isDark ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("theme", next); } catch (e) {}
+  });
+
+  function esc(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  }
+  function norm(s) {
+    return String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
+  var els = {
+    hero: document.getElementById("hero-n"),
+    metaNote: document.getElementById("meta-note"),
+    footDate: document.getElementById("foot-date"),
+    charts: document.getElementById("charts"),
+    chartGroupe: document.getElementById("chart-groupe"),
+    chartRegion: document.getElementById("chart-region"),
+    q: document.getElementById("q"),
+    fRegion: document.getElementById("f-region"),
+    fGroupe: document.getElementById("f-groupe"),
+    clear: document.getElementById("clear"),
+    count: document.getElementById("count"),
+    status: document.getElementById("status"),
+    grid: document.getElementById("grid"),
+    tip: document.getElementById("tip")
+  };
+
+  var DATA = [];
+
+  function uniqSorted(arr) {
+    return Array.from(new Set(arr.filter(Boolean))).sort(function (a, b) {
+      return a.localeCompare(b, "fr");
+    });
+  }
+
+  function fillSelect(sel, values) {
+    var frag = document.createDocumentFragment();
+    values.forEach(function (v) {
+      var o = document.createElement("option");
+      o.value = v; o.textContent = v;
+      frag.appendChild(o);
+    });
+    sel.appendChild(frag);
+  }
+
+  // ---- Graphes (barres classées, une seule teinte) ----
+  function renderBars(container, counts) {
+    var entries = Object.keys(counts).map(function (k) { return [k, counts[k]]; });
+    entries.sort(function (a, b) { return b[1] - a[1]; });
+    var max = entries.length ? entries[0][1] : 1;
+    var total = entries.reduce(function (s, e) { return s + e[1]; }, 0);
+    var html = entries.map(function (e) {
+      var pct = Math.round((e[1] / total) * 100);
+      var w = Math.max(2, Math.round((e[1] / max) * 100));
+      return '<div class="bar-row" data-label="' + esc(e[0]) +
+             '" data-info="' + esc(e[1] + ' député·e·s · ' + pct + '%') + '">' +
+             '<span class="bl" title="' + esc(e[0]) + '">' + esc(e[0]) + '</span>' +
+             '<span class="bar-track"><span class="bar-fill" style="width:' + w + '%"></span></span>' +
+             '<span class="bv">' + e[1] + '</span></div>';
+    }).join("");
+    container.innerHTML = html;
+  }
+
+  function countBy(rows, key) {
+    var c = {};
+    rows.forEach(function (r) {
+      var v = r[key] || "—";
+      c[v] = (c[v] || 0) + 1;
+    });
+    return c;
+  }
+
+  // ---- Tooltip des barres ----
+  function bindTooltip(container) {
+    container.addEventListener("mousemove", function (ev) {
+      var row = ev.target.closest(".bar-row");
+      if (!row) { els.tip.style.opacity = 0; return; }
+      els.tip.textContent = row.getAttribute("data-label") + " — " + row.getAttribute("data-info");
+      els.tip.style.left = ev.clientX + "px";
+      els.tip.style.top = ev.clientY + "px";
+      els.tip.style.opacity = 1;
+    });
+    container.addEventListener("mouseleave", function () { els.tip.style.opacity = 0; });
+  }
+
+  // ---- Rendu de l'annuaire ----
+  function card(d) {
+    var loc = [d.departement, d.circonscription].filter(Boolean).join(" · ") || d.region || "";
+    var contact = d.email
+      ? '<a class="contact" href="mailto:' + esc(d.email) + '">✉ Contacter</a>'
+      : '<span class="contact disabled">Email indisponible</span>';
+    return '<article class="panel dep" role="listitem">' +
+      '<div class="name">' + esc(d.nom) + '</div>' +
+      (d.groupe ? '<span class="grp">' + esc(d.groupe) + '</span>' : '') +
+      '<div class="rows">' +
+        '<div><span class="k">Région :</span> ' + esc(d.region || "—") + '</div>' +
+        (loc ? '<div><span class="k">Circonscription :</span> ' + esc(loc) + '</div>' : '') +
+      '</div>' +
+      '<div class="actions">' + contact + '</div>' +
+    '</article>';
+  }
+
+  function apply() {
+    var q = norm(els.q.value.trim());
+    var reg = els.fRegion.value;
+    var grp = els.fGroupe.value;
+    var out = DATA.filter(function (d) {
+      if (reg && d.region !== reg) return false;
+      if (grp && (d.groupe || "") !== grp) return false;
+      if (q && norm(d.nom).indexOf(q) === -1) return false;
+      return true;
+    });
+    els.count.textContent = out.length + " résultat" + (out.length > 1 ? "s" : "") +
+      (out.length !== DATA.length ? " sur " + DATA.length : "");
+    els.grid.innerHTML = out.length
+      ? out.map(card).join("")
+      : '';
+    els.status.hidden = true;
+    els.status.innerHTML = "";
+    if (!out.length) {
+      els.grid.innerHTML = '<p class="empty">Aucun·e député·e ne correspond à ces critères.</p>';
+    }
+  }
+
+  function init(rows) {
+    DATA = rows.slice().sort(function (a, b) {
+      return (a.region || "").localeCompare(b.region || "", "fr") ||
+             (a.nom || "").localeCompare(b.nom || "", "fr");
+    });
+    els.hero.textContent = DATA.length.toLocaleString("fr-FR");
+    fillSelect(els.fRegion, uniqSorted(DATA.map(function (d) { return d.region; })));
+    fillSelect(els.fGroupe, uniqSorted(DATA.map(function (d) { return d.groupe; })));
+
+    renderBars(els.chartGroupe, countBy(DATA, "groupe"));
+    renderBars(els.chartRegion, countBy(DATA, "region"));
+    els.charts.hidden = false;
+    bindTooltip(els.chartGroupe);
+    bindTooltip(els.chartRegion);
+
+    els.q.addEventListener("input", apply);
+    els.fRegion.addEventListener("change", apply);
+    els.fGroupe.addEventListener("change", apply);
+    els.clear.addEventListener("click", function () {
+      els.q.value = ""; els.fRegion.value = ""; els.fGroupe.value = ""; apply();
+    });
+    apply();
+  }
+
+  // ---- Métadonnées (date de génération) ----
+  fetch("./data/meta.json", { cache: "no-store" })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (m) {
+      if (!m) return;
+      var d = m.generated_at ? new Date(m.generated_at) : null;
+      if (d && !isNaN(d)) {
+        var txt = "Mis à jour le " + d.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
+        els.metaNote.textContent = txt;
+        els.footDate.textContent = txt;
+      }
+    })
+    .catch(function () {});
+
+  // ---- Données principales ----
+  fetch("./data/deputes.json", { cache: "no-store" })
+    .then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    })
+    .then(function (rows) {
+      if (!Array.isArray(rows) || !rows.length) throw new Error("jeu de données vide");
+      init(rows);
+    })
+    .catch(function (err) {
+      els.status.innerHTML = "Impossible de charger les données (" + esc(err.message) + ").<br>" +
+        'Vérifiez la présence de <code>data/deputes.json</code>.';
+    });
+})();
+</script>
+</body>
+</html>

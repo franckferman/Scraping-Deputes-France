@@ -1,0 +1,4618 @@
+[
+  {
+    "nom": "M. Abdelkader Lahmar",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "abdelkader.lahmar@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Rhône (7ecirconscription)"
+  },
+  {
+    "nom": "M. Alexandre Portier",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "alexandre.portier@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Rhône (9ecirconscription)"
+  },
+  {
+    "nom": "M. Alexis Jolly",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "alexis.jolly@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Isère (6ecirconscription)"
+  },
+  {
+    "nom": "M. Alim Latrèche",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "alim.latreche@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Isère (1recirconscription)"
+  },
+  {
+    "nom": "M. Antoine Valentin",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Haute-Savoie",
+    "email": "antoine.valentin@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Haute-Savoie (3ecirconscription)"
+  },
+  {
+    "nom": "M. Antoine Vermorel-Marques",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Loire",
+    "email": "antoine.vermorel@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Loire (5ecirconscription)"
+  },
+  {
+    "nom": "M. Boris Tavernier",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "boris.tavernier@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Rhône (2ecirconscription)"
+  },
+  {
+    "nom": "M. Cyrille Isaac-Sibille",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "Cyrille.Isaac-Sibille@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Rhône (12ecirconscription)"
+  },
+  {
+    "nom": "M. Didier Padey",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Savoie",
+    "email": "didier.padey@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Savoie (1recirconscription)"
+  },
+  {
+    "nom": "M. Emmanuel Mandon",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Loire",
+    "email": "emmanuel.mandon@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Loire (3ecirconscription)"
+  },
+  {
+    "nom": "M. Fabrice Brun",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Ardèche",
+    "email": "Fabrice.Brun@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Ardèche (3ecirconscription)"
+  },
+  {
+    "nom": "M. Gabriel Amard",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "gabriel.amard@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Rhône (6ecirconscription)"
+  },
+  {
+    "nom": "M. Hervé Saulignac",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Ardèche",
+    "email": "Herve.Saulignac@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Ardèche (1recirconscription)"
+  },
+  {
+    "nom": "M. Idir Boumertit",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "idir.boumertit@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Rhône (14ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-François Coulomme",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Savoie",
+    "email": "jean-francois.coulomme@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Savoie (4ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Luc Fugit",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "Jean-Luc.Fugit@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Rhône (11ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Pierre Vigier",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Haute-Loire",
+    "email": "Jean-Pierre.Vigier@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Haute-Loire (2ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Yves Bonnefoy",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Loire",
+    "email": "jean-yves.bonnefoy@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Loire (6ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Yves Bony",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Cantal",
+    "email": "Jean-Yves.Bony@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Cantal (2ecirconscription)"
+  },
+  {
+    "nom": "M. Jonathan Gery",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "jonathan.gery@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Rhône (8ecirconscription)"
+  },
+  {
+    "nom": "M. Jorys Bovet",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Allier",
+    "email": "jorys.bovet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Allier (2ecirconscription)"
+  },
+  {
+    "nom": "M. Julien Brugerolles",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Puy-de-Dôme",
+    "email": "julien.brugerolles@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Puy-de-Dôme (5ecirconscription)"
+  },
+  {
+    "nom": "M. Jérémie Iordanoff",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "jeremie.iordanoff@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Isère (5ecirconscription)"
+  },
+  {
+    "nom": "M. Jérôme Buisson",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Ain",
+    "email": "jerome.buisson@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Ain (4ecirconscription)"
+  },
+  {
+    "nom": "M. Laurent Wauquiez",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Haute-Loire",
+    "email": "laurent.wauquiez@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Haute-Loire (1recirconscription)"
+  },
+  {
+    "nom": "M. Marc Chavent",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Ain",
+    "email": "marc.chavent@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Ain (5ecirconscription)"
+  },
+  {
+    "nom": "M. Nicolas Bonnet",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Puy-de-Dôme",
+    "email": "nicolas.bonnet@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Puy-de-Dôme (3ecirconscription)"
+  },
+  {
+    "nom": "M. Nicolas Ray",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Allier",
+    "email": "nicolas.ray@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Allier (3ecirconscription)"
+  },
+  {
+    "nom": "M. Paul Christophle",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Drôme",
+    "email": "paul.christophle@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Drôme (1recirconscription)"
+  },
+  {
+    "nom": "M. Pierrick Courbon",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Loire",
+    "email": "pierrick.courbon@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Loire (1recirconscription)"
+  },
+  {
+    "nom": "M. Romain Daubié",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Ain",
+    "email": "romain.daubie@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Ain (2ecirconscription)"
+  },
+  {
+    "nom": "M. Thibaut Monnier",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Drôme",
+    "email": "thibaut.monnier@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Drôme (4ecirconscription)"
+  },
+  {
+    "nom": "M. Thierry Perez",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "thierry.perez@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Isère (10ecirconscription)"
+  },
+  {
+    "nom": "M. Thomas Gassilloud",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "Thomas.Gassilloud@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Rhône (10ecirconscription)"
+  },
+  {
+    "nom": "M. Vincent Descoeur",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Cantal",
+    "email": "Vincent.Descoeur@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Cantal (1recirconscription)"
+  },
+  {
+    "nom": "M. Vincent Rolland",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Savoie",
+    "email": "Vincent.Rolland@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Savoie (2ecirconscription)"
+  },
+  {
+    "nom": "M. Vincent Trébuchet",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Ardèche",
+    "email": "vincent.trebuchet@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Ardèche (2ecirconscription)"
+  },
+  {
+    "nom": "M. Xavier Breton",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Ain",
+    "email": "Xavier.Breton@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Ain (1recirconscription)"
+  },
+  {
+    "nom": "M. Xavier Roseren",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Haute-Savoie",
+    "email": "Xavier.Roseren@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Haute-Savoie (6ecirconscription)"
+  },
+  {
+    "nom": "M. Yannick Monnet",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Allier",
+    "email": "yannick.monnet@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Allier (1recirconscription)"
+  },
+  {
+    "nom": "M. Yannick Neuder",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "yannick.neuder@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Isère (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Anaïs Belouassa-Cherifi",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "anais.belouassa@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Rhône (1recirconscription)"
+  },
+  {
+    "nom": "Mme Andrée Taurinya",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Loire",
+    "email": "andree.taurinya@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Loire (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Anne-Cécile Violland",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Haute-Savoie",
+    "email": "anne-cecile.violland@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Haute-Savoie (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Blandine Brocard",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "Blandine.Brocard@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Rhône (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Christine Pirès Beaune",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Puy-de-Dôme",
+    "email": "Christine.PiresBeaune@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Puy-de-Dôme (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Cyrielle Chatelain",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "cyrielle.chatelain@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Isère (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Danièle Carteron",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Haute-Savoie",
+    "email": "daniele.carteron@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Haute-Savoie (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Delphine Lingemann",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Puy-de-Dôme",
+    "email": "delphine.lingemann@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Puy-de-Dôme (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Hanane Mansouri",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "hanane.mansouri@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Isère (8ecirconscription)"
+  },
+  {
+    "nom": "Mme Lisette Pollet",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Drôme",
+    "email": "lisette.pollet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Drôme (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Marianne Maximi",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Puy-de-Dôme",
+    "email": "marianne.maximi@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Puy-de-Dôme (1recirconscription)"
+  },
+  {
+    "nom": "Mme Marie Pochon",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Drôme",
+    "email": "marie.pochon@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Drôme (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie-Charlotte Garin",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "marie-charlotte.garin@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Rhône (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie-Noëlle Battistel",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "Marie-Noelle.Battistel@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Isère (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Olga Givernet",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Ain",
+    "email": "Olga.Givernet@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Ain (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Sandrine Nosbé",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "sandrine.nosbe@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Isère (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Sandrine Runel",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "sandrine.runel@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Rhône (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Sylvie Bonnet",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Loire",
+    "email": "sylvie.bonnet@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Loire (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Tiffany Joncour",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": "tiffany.joncour@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Rhône (13ecirconscription)"
+  },
+  {
+    "nom": "Mme Virginie Duby-Muller",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Haute-Savoie",
+    "email": "Virginie.Duby-Muller@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Haute-Savoie (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Véronique Riotton",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Haute-Savoie",
+    "email": "Veronique.Riotton@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Haute-Savoie (1recirconscription)"
+  },
+  {
+    "nom": "Mme Élisa Martin",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Isère",
+    "email": "elisa.martin@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Isère (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Émilie Bonnivard",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Savoie",
+    "email": "Emilie.Bonnivard@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Savoie (3ecirconscription)"
+  },
+  {
+    "nom": "M. Antoine Villedieu",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Haute-Saône",
+    "email": "antoine.villedieu@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Haute-Saône (1recirconscription)"
+  },
+  {
+    "nom": "M. Aurélien Dutremble",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Saône-et-Loire",
+    "email": "aurelien.dutremble@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Saône-et-Loire (3ecirconscription)"
+  },
+  {
+    "nom": "M. Benjamin Dirx",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Saône-et-Loire",
+    "email": "Benjamin.Dirx@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Saône-et-Loire (1recirconscription)"
+  },
+  {
+    "nom": "M. Daniel Grenon",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Yonne",
+    "email": "daniel.grenon@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Yonne (1recirconscription)"
+  },
+  {
+    "nom": "M. Emeric Salmon",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Haute-Saône",
+    "email": "emeric.salmon@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Haute-Saône (2ecirconscription)"
+  },
+  {
+    "nom": "M. Eric Liégeon",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Doubs",
+    "email": "eric.liegeon@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Doubs (5ecirconscription)"
+  },
+  {
+    "nom": "M. Guillaume Bigot",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Territoire de Belfort",
+    "email": "guillaume.bigot@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Territoire de Belfort (2ecirconscription)"
+  },
+  {
+    "nom": "M. Hubert Brigand",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Côte-d'Or",
+    "email": "hubert.brigand@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Côte-d'Or (4ecirconscription)"
+  },
+  {
+    "nom": "M. Ian Boucard",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Territoire de Belfort",
+    "email": "Ian.Boucard@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Territoire de Belfort (1recirconscription)"
+  },
+  {
+    "nom": "M. Julien Guibert",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Nièvre",
+    "email": "julien.guibert@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Nièvre (2ecirconscription)"
+  },
+  {
+    "nom": "M. Julien Odoul",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Yonne",
+    "email": "julien.odoul@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Yonne (3ecirconscription)"
+  },
+  {
+    "nom": "M. Laurent Croizier",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Doubs",
+    "email": "laurent.croizier@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Doubs (1recirconscription)"
+  },
+  {
+    "nom": "M. Lionel Duparay",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Saône-et-Loire",
+    "email": "lionel.duparay@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Saône-et-Loire (5ecirconscription)"
+  },
+  {
+    "nom": "M. Matthieu Bloch",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Doubs",
+    "email": "matthieu.bloch@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Doubs (3ecirconscription)"
+  },
+  {
+    "nom": "M. Pierre Pribetich",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Côte-d'Or",
+    "email": "pierre.pribetich@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Côte-d'Or (3ecirconscription)"
+  },
+  {
+    "nom": "M. René Lioret",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Côte-d'Or",
+    "email": "rene.lioret@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Côte-d'Or (5ecirconscription)"
+  },
+  {
+    "nom": "M. Éric Michoux",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Saône-et-Loire",
+    "email": "eric.michoux@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Saône-et-Loire (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Catherine Hervieu",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Côte-d'Or",
+    "email": "catherine.hervieu@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Côte-d'Or (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Danielle Brulebois",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Jura",
+    "email": "Danielle.Brulebois@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Jura (1recirconscription)"
+  },
+  {
+    "nom": "Mme Dominique Voynet",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Doubs",
+    "email": "dominique.voynet@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Doubs (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Géraldine Grangier",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Doubs",
+    "email": "geraldine.grangier@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Doubs (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Josiane Corneloup",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Saône-et-Loire",
+    "email": "Josiane.Corneloup@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Saône-et-Loire (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Justine Gruet",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Jura",
+    "email": "justine.gruet@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Jura (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie-Christine Dalloz",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Jura",
+    "email": "Marie-Christine.Dalloz@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Jura (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Océane Godard",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Côte-d'Or",
+    "email": "oceane.godard@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Côte-d'Or (1recirconscription)"
+  },
+  {
+    "nom": "Mme Perrine Goulet",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Nièvre",
+    "email": "Perrine.Goulet@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Nièvre (1recirconscription)"
+  },
+  {
+    "nom": "Mme Sophie-Laurence Roy",
+    "region": "Bourgogne-Franche-Comté",
+    "departement": "Yonne",
+    "email": "sophie-laurence.roy@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Yonne (2ecirconscription)"
+  },
+  {
+    "nom": "M. Corentin Le Fur",
+    "region": "Bretagne",
+    "departement": "Côtes-d'Armor",
+    "email": "corentin.lefur@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Côtes-d'Armor (3ecirconscription)"
+  },
+  {
+    "nom": "M. Damien Girard",
+    "region": "Bretagne",
+    "departement": "Morbihan",
+    "email": "damien.girard@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Morbihan (5ecirconscription)"
+  },
+  {
+    "nom": "M. Didier Le Gac",
+    "region": "Bretagne",
+    "departement": "Finistère",
+    "email": "Didier.LeGac@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Finistère (3ecirconscription)"
+  },
+  {
+    "nom": "M. Erwan Balanant",
+    "region": "Bretagne",
+    "departement": "Finistère",
+    "email": "Erwan.Balanant@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Finistère (8ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Luc Bourgeaux",
+    "region": "Bretagne",
+    "departement": "Ille-et-Vilaine",
+    "email": "jean-luc.bourgeaux@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Ille-et-Vilaine (7ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Michel Jacques",
+    "region": "Bretagne",
+    "departement": "Morbihan",
+    "email": "Jean-Michel.Jacques@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Morbihan (6ecirconscription)"
+  },
+  {
+    "nom": "M. Jimmy Pahun",
+    "region": "Bretagne",
+    "departement": "Morbihan",
+    "email": "Jimmy.Pahun@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Morbihan (2ecirconscription)"
+  },
+  {
+    "nom": "M. Michel Criaud",
+    "region": "Bretagne",
+    "departement": "Morbihan",
+    "email": "michel.criaud@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Morbihan (1recirconscription)"
+  },
+  {
+    "nom": "M. Mickaël Bouloux",
+    "region": "Bretagne",
+    "departement": "Ille-et-Vilaine",
+    "email": "mickael.bouloux@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Ille-et-Vilaine (8ecirconscription)"
+  },
+  {
+    "nom": "M. Mickaël Cosson",
+    "region": "Bretagne",
+    "departement": "Côtes-d'Armor",
+    "email": "mickael.cosson@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Côtes-d'Armor (1recirconscription)"
+  },
+  {
+    "nom": "M. Paul Molac",
+    "region": "Bretagne",
+    "departement": "Morbihan",
+    "email": "Paul.Molac@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Morbihan (4ecirconscription)"
+  },
+  {
+    "nom": "M. Pierre-Yves Cadalen",
+    "region": "Bretagne",
+    "departement": "Finistère",
+    "email": "pierre-yves.cadalen@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Finistère (2ecirconscription)"
+  },
+  {
+    "nom": "M. Thierry Benoit",
+    "region": "Bretagne",
+    "departement": "Ille-et-Vilaine",
+    "email": "Thierry.Benoit@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Ille-et-Vilaine (6ecirconscription)"
+  },
+  {
+    "nom": "M. Tristan Lahais",
+    "region": "Bretagne",
+    "departement": "Ille-et-Vilaine",
+    "email": "tristan.lahais@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Ille-et-Vilaine (2ecirconscription)"
+  },
+  {
+    "nom": "M. Éric Bothorel",
+    "region": "Bretagne",
+    "departement": "Côtes-d'Armor",
+    "email": "Eric.Bothorel@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Côtes-d'Armor (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Annaïg Le Meur",
+    "region": "Bretagne",
+    "departement": "Finistère",
+    "email": "Annaig.LeMeur@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Finistère (1recirconscription)"
+  },
+  {
+    "nom": "Mme Chantal Bouloux",
+    "region": "Bretagne",
+    "departement": "Côtes-d'Armor",
+    "email": "chantal.bouloux@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Côtes-d'Armor (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Christine Le Nabour",
+    "region": "Bretagne",
+    "departement": "Ille-et-Vilaine",
+    "email": "Christine.lenabour@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Ille-et-Vilaine (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Claudia Rouaux",
+    "region": "Bretagne",
+    "departement": "Ille-et-Vilaine",
+    "email": "claudia.rouaux@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Ille-et-Vilaine (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Graziella Melchior",
+    "region": "Bretagne",
+    "departement": "Finistère",
+    "email": "Graziella.Melchior@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Finistère (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Liliana Tanguy",
+    "region": "Bretagne",
+    "departement": "Finistère",
+    "email": "Liliana.Tanguy@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Finistère (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie Mesmeur",
+    "region": "Bretagne",
+    "departement": "Ille-et-Vilaine",
+    "email": "marie.mesmeur@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Ille-et-Vilaine (1recirconscription)"
+  },
+  {
+    "nom": "Mme Mathilde Hignet",
+    "region": "Bretagne",
+    "departement": "Ille-et-Vilaine",
+    "email": "mathilde.hignet@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Ille-et-Vilaine (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Murielle Lepvraud",
+    "region": "Bretagne",
+    "departement": "Côtes-d'Armor",
+    "email": "murielle.lepvraud@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Côtes-d'Armor (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Mélanie Thomin",
+    "region": "Bretagne",
+    "departement": "Finistère",
+    "email": "melanie.thomin@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Finistère (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Nicole Le Peih",
+    "region": "Bretagne",
+    "departement": "Morbihan",
+    "email": "Nicole.LePeih@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Morbihan (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Sandrine Le Feur",
+    "region": "Bretagne",
+    "departement": "Finistère",
+    "email": "Sandrine.LeFeur@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Finistère (4ecirconscription)"
+  },
+  {
+    "nom": "M. Anthony Brosse",
+    "region": "Centre-Val de Loire",
+    "departement": "Loiret",
+    "email": "anthony.brosse@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Loiret (5ecirconscription)"
+  },
+  {
+    "nom": "M. Charles Fournier",
+    "region": "Centre-Val de Loire",
+    "departement": "Indre-et-Loire",
+    "email": "charles.fournier@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Indre-et-Loire (1recirconscription)"
+  },
+  {
+    "nom": "M. Christophe Marion",
+    "region": "Centre-Val de Loire",
+    "departement": "Loir-et-Cher",
+    "email": "christophe.marion@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Loir-et-Cher (3ecirconscription)"
+  },
+  {
+    "nom": "M. Daniel Labaronne",
+    "region": "Centre-Val de Loire",
+    "departement": "Indre-et-Loire",
+    "email": "Daniel.Labaronne@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Indre-et-Loire (2ecirconscription)"
+  },
+  {
+    "nom": "M. Emmanuel Duplessy",
+    "region": "Centre-Val de Loire",
+    "departement": "Loiret",
+    "email": "emmanuel.duplessy@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Loiret (2ecirconscription)"
+  },
+  {
+    "nom": "M. François Cormier-Bouligeon",
+    "region": "Centre-Val de Loire",
+    "departement": "Cher",
+    "email": "Francois.Cormier-Bouligeon@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Cher (1recirconscription)"
+  },
+  {
+    "nom": "M. François Jolivet",
+    "region": "Centre-Val de Loire",
+    "departement": "Indre",
+    "email": "Francois.Jolivet@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Indre (1recirconscription)"
+  },
+  {
+    "nom": "M. Guillaume Kasbarian",
+    "region": "Centre-Val de Loire",
+    "departement": "Eure-et-Loir",
+    "email": "Guillaume.Kasbarian@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Eure-et-Loir (1recirconscription)"
+  },
+  {
+    "nom": "M. Harold Huwart",
+    "region": "Centre-Val de Loire",
+    "departement": "Eure-et-Loir",
+    "email": "harold.huwart@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Eure-et-Loir (3ecirconscription)"
+  },
+  {
+    "nom": "M. Henri Alfandari",
+    "region": "Centre-Val de Loire",
+    "departement": "Indre-et-Loire",
+    "email": "henri.alfandari@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Indre-et-Loire (3ecirconscription)"
+  },
+  {
+    "nom": "M. Laurent Baumel",
+    "region": "Centre-Val de Loire",
+    "departement": "Indre-et-Loire",
+    "email": "laurent.baumel@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Indre-et-Loire (4ecirconscription)"
+  },
+  {
+    "nom": "M. Loïc Kervran",
+    "region": "Centre-Val de Loire",
+    "departement": "Cher",
+    "email": "Loic.Kervran@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Cher (3ecirconscription)"
+  },
+  {
+    "nom": "M. Marc Fesneau",
+    "region": "Centre-Val de Loire",
+    "departement": "Loir-et-Cher",
+    "email": "marc.fesneau@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Loir-et-Cher (1recirconscription)"
+  },
+  {
+    "nom": "M. Nicolas Sansu",
+    "region": "Centre-Val de Loire",
+    "departement": "Cher",
+    "email": "nicolas.sansu@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Cher (2ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Vigier",
+    "region": "Centre-Val de Loire",
+    "departement": "Eure-et-Loir",
+    "email": "Philippe.Vigier@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Eure-et-Loir (4ecirconscription)"
+  },
+  {
+    "nom": "M. Richard Ramos",
+    "region": "Centre-Val de Loire",
+    "departement": "Loiret",
+    "email": "Richard.Ramos@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Loiret (6ecirconscription)"
+  },
+  {
+    "nom": "M. Roger Chudeau",
+    "region": "Centre-Val de Loire",
+    "departement": "Loir-et-Cher",
+    "email": "roger.chudeau@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Loir-et-Cher (2ecirconscription)"
+  },
+  {
+    "nom": "M. Thomas Ménagé",
+    "region": "Centre-Val de Loire",
+    "departement": "Loiret",
+    "email": "thomas.menage@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Loiret (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Alix Fruchon",
+    "region": "Centre-Val de Loire",
+    "departement": "Indre",
+    "email": "alix.fruchon@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Indre (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Christelle Minard",
+    "region": "Centre-Val de Loire",
+    "departement": "Eure-et-Loir",
+    "email": "christelle.minard@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Eure-et-Loir (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Constance de Pélichy",
+    "region": "Centre-Val de Loire",
+    "departement": "Loiret",
+    "email": "constance.depelichy@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Loiret (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie-Philippe Lubet",
+    "region": "Centre-Val de Loire",
+    "departement": "Loiret",
+    "email": "marie-philippe.lubet@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Loiret (1recirconscription)"
+  },
+  {
+    "nom": "Mme Sabine Thillaye",
+    "region": "Centre-Val de Loire",
+    "departement": "Indre-et-Loire",
+    "email": "Sabine.Thillaye@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Indre-et-Loire (5ecirconscription)"
+  },
+  {
+    "nom": "M. François-Xavier Ceccoli",
+    "region": "Corse",
+    "departement": "Haute-Corse",
+    "email": "francois-xavier.ceccoli@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Haute-Corse (2ecirconscription)"
+  },
+  {
+    "nom": "M. Laurent Marcangeli",
+    "region": "Corse",
+    "departement": "Corse-du-Sud",
+    "email": "laurent.marcangeli@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Corse-du-Sud (1recirconscription)"
+  },
+  {
+    "nom": "M. Michel Castellani",
+    "region": "Corse",
+    "departement": "Haute-Corse",
+    "email": "Michel.Castellani@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Haute-Corse (1recirconscription)"
+  },
+  {
+    "nom": "M. Paul-André Colombani",
+    "region": "Corse",
+    "departement": "Corse-du-Sud",
+    "email": "Paul-Andre.Colombani@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Corse-du-Sud (2ecirconscription)"
+  },
+  {
+    "nom": "M. Benoît Larrouquis",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "benoit.larrouquis@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Français établis hors de France (2ecirconscription)"
+  },
+  {
+    "nom": "M. Christopher Weissberg",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "christopher.weissberg@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Français établis hors de France (1recirconscription)"
+  },
+  {
+    "nom": "M. Frédéric Petit",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "Frederic.Petit@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Français établis hors de France (7ecirconscription)"
+  },
+  {
+    "nom": "M. Karim Ben Cheikh",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "karim.bencheikh@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Français établis hors de France (9ecirconscription)"
+  },
+  {
+    "nom": "M. Marc Ferracci",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "marc.ferracci@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Français établis hors de France (6ecirconscription)"
+  },
+  {
+    "nom": "M. Pieyre-Alexandre Anglade",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "Pieyre-Alexandre.Anglade@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Français établis hors de France (4ecirconscription)"
+  },
+  {
+    "nom": "M. Vincent Caure",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "vincent.caure@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Français établis hors de France (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Amélia Lakrafi",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "amelia.lakrafi@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Français établis hors de France (10ecirconscription)"
+  },
+  {
+    "nom": "Mme Anne Genetet",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "Anne.Genetet@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Français établis hors de France (11ecirconscription)"
+  },
+  {
+    "nom": "Mme Caroline Yadan",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "caroline.yadan@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Français établis hors de France (8ecirconscription)"
+  },
+  {
+    "nom": "Mme Nathalie Coggia",
+    "region": "Français établis hors de France",
+    "departement": "Français établis hors de France",
+    "email": "nathalie.coggia@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Français établis hors de France (5ecirconscription)"
+  },
+  {
+    "nom": "M. Alexandre Loubet",
+    "region": "Grand Est",
+    "departement": "Moselle",
+    "email": "alexandre.loubet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Moselle (7ecirconscription)"
+  },
+  {
+    "nom": "M. Anthony Boulogne",
+    "region": "Grand Est",
+    "departement": "Meurthe-et-Moselle",
+    "email": "anthony.boulogne@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Meurthe-et-Moselle (6ecirconscription)"
+  },
+  {
+    "nom": "M. Belkhir Belhaddad",
+    "region": "Grand Est",
+    "departement": "Moselle",
+    "email": "Belkhir.Belhaddad@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Moselle (1recirconscription)"
+  },
+  {
+    "nom": "M. Bruno Fuchs",
+    "region": "Grand Est",
+    "departement": "Haut-Rhin",
+    "email": "Bruno.Fuchs@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Haut-Rhin (6ecirconscription)"
+  },
+  {
+    "nom": "M. Charles Sitzenstuhl",
+    "region": "Grand Est",
+    "departement": "Bas-Rhin",
+    "email": "charles.sitzenstuhl@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Bas-Rhin (5ecirconscription)"
+  },
+  {
+    "nom": "M. Charles de Courson",
+    "region": "Grand Est",
+    "departement": "Marne",
+    "email": "Charles.deCourson@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Marne (5ecirconscription)"
+  },
+  {
+    "nom": "M. Christophe Bentz",
+    "region": "Grand Est",
+    "departement": "Haute-Marne",
+    "email": "christophe.bentz@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Haute-Marne (1recirconscription)"
+  },
+  {
+    "nom": "M. Christophe Naegelen",
+    "region": "Grand Est",
+    "departement": "Vosges",
+    "email": "Christophe.Naegelen@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Vosges (3ecirconscription)"
+  },
+  {
+    "nom": "M. Didier Lemaire",
+    "region": "Grand Est",
+    "departement": "Haut-Rhin",
+    "email": "didier.lemaire@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Haut-Rhin (3ecirconscription)"
+  },
+  {
+    "nom": "M. Dominique Potier",
+    "region": "Grand Est",
+    "departement": "Meurthe-et-Moselle",
+    "email": "Dominique.Potier@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Meurthe-et-Moselle (5ecirconscription)"
+  },
+  {
+    "nom": "M. Emmanuel Fernandes",
+    "region": "Grand Est",
+    "departement": "Bas-Rhin",
+    "email": "emmanuel.fernandes@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Bas-Rhin (2ecirconscription)"
+  },
+  {
+    "nom": "M. Frédéric Weber",
+    "region": "Grand Est",
+    "departement": "Meurthe-et-Moselle",
+    "email": "frederic.weber@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Meurthe-et-Moselle (3ecirconscription)"
+  },
+  {
+    "nom": "M. Gaëtan Dussausaye",
+    "region": "Grand Est",
+    "departement": "Vosges",
+    "email": "gaetan.dussausaye@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Vosges (2ecirconscription)"
+  },
+  {
+    "nom": "M. Hubert Ott",
+    "region": "Grand Est",
+    "departement": "Haut-Rhin",
+    "email": "hubert.ott@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Haut-Rhin (2ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Luc Warsmann",
+    "region": "Grand Est",
+    "departement": "Ardennes",
+    "email": "Jean-Luc.Warsmann@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Ardennes (3ecirconscription)"
+  },
+  {
+    "nom": "M. Jordan Guitton",
+    "region": "Grand Est",
+    "departement": "Aube",
+    "email": "jordan.guitton@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Aube (1recirconscription)"
+  },
+  {
+    "nom": "M. Jérôme End",
+    "region": "Grand Est",
+    "departement": "Moselle",
+    "email": "jerome.end@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Moselle (4ecirconscription)"
+  },
+  {
+    "nom": "M. Kévin Pfeffer",
+    "region": "Grand Est",
+    "departement": "Moselle",
+    "email": "kevin.pfeffer@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Moselle (6ecirconscription)"
+  },
+  {
+    "nom": "M. Laurent Jacobelli",
+    "region": "Grand Est",
+    "departement": "Moselle",
+    "email": "laurent.jacobelli@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Moselle (8ecirconscription)"
+  },
+  {
+    "nom": "M. Lionel Vuibert",
+    "region": "Grand Est",
+    "departement": "Ardennes",
+    "email": "lionel.vuibert@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Ardennes (1recirconscription)"
+  },
+  {
+    "nom": "M. Ludovic Mendes",
+    "region": "Grand Est",
+    "departement": "Moselle",
+    "email": "Ludovic.Mendes@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Moselle (2ecirconscription)"
+  },
+  {
+    "nom": "M. Maxime Amblard",
+    "region": "Grand Est",
+    "departement": "Meuse",
+    "email": "maxime.amblard@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Meuse (1recirconscription)"
+  },
+  {
+    "nom": "M. Maxime Michelet",
+    "region": "Grand Est",
+    "departement": "Marne",
+    "email": "maxime.michelet@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Marne (3ecirconscription)"
+  },
+  {
+    "nom": "M. Olivier Becht",
+    "region": "Grand Est",
+    "departement": "Haut-Rhin",
+    "email": "olivier.becht@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Haut-Rhin (5ecirconscription)"
+  },
+  {
+    "nom": "M. Pascal Jenft",
+    "region": "Grand Est",
+    "departement": "Moselle",
+    "email": "pascal.jenft@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Moselle (5ecirconscription)"
+  },
+  {
+    "nom": "M. Patrick Hetzel",
+    "region": "Grand Est",
+    "departement": "Bas-Rhin",
+    "email": "Patrick.Hetzel@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Bas-Rhin (7ecirconscription)"
+  },
+  {
+    "nom": "M. Pierre Cordier",
+    "region": "Grand Est",
+    "departement": "Ardennes",
+    "email": "Pierre.Cordier@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Ardennes (2ecirconscription)"
+  },
+  {
+    "nom": "M. Raphaël Schellenberger",
+    "region": "Grand Est",
+    "departement": "Haut-Rhin",
+    "email": "Raphael.Schellenberger@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Haut-Rhin (4ecirconscription)"
+  },
+  {
+    "nom": "M. Stéphane Hablot",
+    "region": "Grand Est",
+    "departement": "Meurthe-et-Moselle",
+    "email": "stephane.hablot@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Meurthe-et-Moselle (2ecirconscription)"
+  },
+  {
+    "nom": "M. Stéphane Viry",
+    "region": "Grand Est",
+    "departement": "Vosges",
+    "email": "Stephane.Viry@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Vosges (1recirconscription)"
+  },
+  {
+    "nom": "M. Sébastien Humbert",
+    "region": "Grand Est",
+    "departement": "Vosges",
+    "email": "sebastien.humbert@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Vosges (4ecirconscription)"
+  },
+  {
+    "nom": "M. Thibault Bazin",
+    "region": "Grand Est",
+    "departement": "Meurthe-et-Moselle",
+    "email": "Thibault.Bazin@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Meurthe-et-Moselle (4ecirconscription)"
+  },
+  {
+    "nom": "M. Thierry Sother",
+    "region": "Grand Est",
+    "departement": "Bas-Rhin",
+    "email": "thierry.sother@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Bas-Rhin (3ecirconscription)"
+  },
+  {
+    "nom": "M. Théo Bernhardt",
+    "region": "Grand Est",
+    "departement": "Bas-Rhin",
+    "email": "theo.bernhardt@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bas-Rhin (8ecirconscription)"
+  },
+  {
+    "nom": "M. Vincent Thiébaut",
+    "region": "Grand Est",
+    "departement": "Bas-Rhin",
+    "email": "Vincent.Thiebaut@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Bas-Rhin (9ecirconscription)"
+  },
+  {
+    "nom": "M. Xavier Albertini",
+    "region": "Grand Est",
+    "departement": "Marne",
+    "email": "xavier.albertini@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Marne (1recirconscription)"
+  },
+  {
+    "nom": "Mme Angélique Ranc",
+    "region": "Grand Est",
+    "departement": "Aube",
+    "email": "angelique.ranc@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Aube (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Brigitte Klinkert",
+    "region": "Grand Est",
+    "departement": "Haut-Rhin",
+    "email": "brigitte.klinkert@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Haut-Rhin (1recirconscription)"
+  },
+  {
+    "nom": "Mme Estelle Mercier",
+    "region": "Grand Est",
+    "departement": "Meurthe-et-Moselle",
+    "email": "estelle.mercier@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Meurthe-et-Moselle (1recirconscription)"
+  },
+  {
+    "nom": "Mme Florence Goulet",
+    "region": "Grand Est",
+    "departement": "Meuse",
+    "email": "florence.goulet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Meuse (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Françoise Buffet",
+    "region": "Grand Est",
+    "departement": "Bas-Rhin",
+    "email": "francoise.buffet@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Bas-Rhin (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Isabelle Rauch",
+    "region": "Grand Est",
+    "departement": "Moselle",
+    "email": "Isabelle.Rauch@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Moselle (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Laure Miller",
+    "region": "Grand Est",
+    "departement": "Marne",
+    "email": "laure.miller@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Marne (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Laurence Robert-Dehault",
+    "region": "Grand Est",
+    "departement": "Haute-Marne",
+    "email": "laurence.robert-dehault@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Haute-Marne (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Lise Magnier",
+    "region": "Grand Est",
+    "departement": "Marne",
+    "email": "Lise.Magnier@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Marne (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Louise Morel",
+    "region": "Grand Est",
+    "departement": "Bas-Rhin",
+    "email": "louise.morel@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Bas-Rhin (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Nathalie Colin-Oesterlé",
+    "region": "Grand Est",
+    "departement": "Moselle",
+    "email": "nathalie.colin-oesterle@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Moselle (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Sandra Regol",
+    "region": "Grand Est",
+    "departement": "Bas-Rhin",
+    "email": "sandra.regol@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Bas-Rhin (1recirconscription)"
+  },
+  {
+    "nom": "Mme Valérie Bazin-Malgras",
+    "region": "Grand Est",
+    "departement": "Aube",
+    "email": "Valerie.Bazin-Malgras@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Aube (2ecirconscription)"
+  },
+  {
+    "nom": "M. Christian Baptiste",
+    "region": "Guadeloupe",
+    "departement": "Guadeloupe",
+    "email": "christian.baptiste@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Guadeloupe (2ecirconscription)"
+  },
+  {
+    "nom": "M. Elie Califer",
+    "region": "Guadeloupe",
+    "departement": "Guadeloupe",
+    "email": "elie.califer@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Guadeloupe (4ecirconscription)"
+  },
+  {
+    "nom": "M. Max Mathiasin",
+    "region": "Guadeloupe",
+    "departement": "Guadeloupe",
+    "email": "Max.Mathiasin@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Guadeloupe (3ecirconscription)"
+  },
+  {
+    "nom": "M. Olivier Serva",
+    "region": "Guadeloupe",
+    "departement": "Guadeloupe",
+    "email": "Olivier.Serva@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Guadeloupe (1recirconscription)"
+  },
+  {
+    "nom": "M. Davy Rimane",
+    "region": "Guyane",
+    "departement": "Guyane",
+    "email": "davy.rimane@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Guyane (2ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Victor Castor",
+    "region": "Guyane",
+    "departement": "Guyane",
+    "email": "jean-victor.castor@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Guyane (1recirconscription)"
+  },
+  {
+    "nom": "M. Alexandre Dufosset",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "alexandre.dufosset@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Nord (18ecirconscription)"
+  },
+  {
+    "nom": "M. Alexandre Sabatou",
+    "region": "Hauts-de-France",
+    "departement": "Oise",
+    "email": "alexandre.sabatou@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Oise (3ecirconscription)"
+  },
+  {
+    "nom": "M. Antoine Golliot",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "antoine.golliot@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (5ecirconscription)"
+  },
+  {
+    "nom": "M. Auguste Evrard",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "auguste.evrard@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (8ecirconscription)"
+  },
+  {
+    "nom": "M. Aurélien Le Coq",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "aurelien.lecoq@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Nord (1recirconscription)"
+  },
+  {
+    "nom": "M. Bruno Bilde",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "Bruno.Bilde@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (12ecirconscription)"
+  },
+  {
+    "nom": "M. Bruno Clavet",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "bruno.clavet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (3ecirconscription)"
+  },
+  {
+    "nom": "M. David Magnier",
+    "region": "Hauts-de-France",
+    "departement": "Oise",
+    "email": "david.magnier@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Oise (7ecirconscription)"
+  },
+  {
+    "nom": "M. Eddy Casterman",
+    "region": "Hauts-de-France",
+    "departement": "Aisne",
+    "email": "eddy.casterman@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Aisne (3ecirconscription)"
+  },
+  {
+    "nom": "M. Emmanuel Blairy",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "emmanuel.blairy@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (1recirconscription)"
+  },
+  {
+    "nom": "M. François Ruffin",
+    "region": "Hauts-de-France",
+    "departement": "Somme",
+    "email": "Francois.Ruffin@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Somme (1recirconscription)"
+  },
+  {
+    "nom": "M. Frédéric-Pierre Vos",
+    "region": "Hauts-de-France",
+    "departement": "Oise",
+    "email": "fredericpierre.vos@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Oise (5ecirconscription)"
+  },
+  {
+    "nom": "M. Guillaume Florquin",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "guillaume.florquin@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Nord (20ecirconscription)"
+  },
+  {
+    "nom": "M. Jean Bodart",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "jean.bodart@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Nord (13ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Philippe Tanguy",
+    "region": "Hauts-de-France",
+    "departement": "Somme",
+    "email": "jean-philippe.tanguy@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Somme (4ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Pierre Bataille",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "jean-pierre.bataille@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Nord (15ecirconscription)"
+  },
+  {
+    "nom": "M. Jocelyn Dessigny",
+    "region": "Hauts-de-France",
+    "departement": "Aisne",
+    "email": "jocelyn.dessigny@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Aisne (5ecirconscription)"
+  },
+  {
+    "nom": "M. José Beaurain",
+    "region": "Hauts-de-France",
+    "departement": "Aisne",
+    "email": "jose.beaurain@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Aisne (4ecirconscription)"
+  },
+  {
+    "nom": "M. Julien Dive",
+    "region": "Hauts-de-France",
+    "departement": "Aisne",
+    "email": "Julien.Dive@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Aisne (2ecirconscription)"
+  },
+  {
+    "nom": "M. Marc de Fleurian",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "marc.defleurian@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (7ecirconscription)"
+  },
+  {
+    "nom": "M. Matthias Renault",
+    "region": "Hauts-de-France",
+    "departement": "Somme",
+    "email": "matthias.renault@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Somme (3ecirconscription)"
+  },
+  {
+    "nom": "M. Matthieu Marchio",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "matthieu.marchio@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Nord (16ecirconscription)"
+  },
+  {
+    "nom": "M. Michaël Taverne",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "michael.taverne@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Nord (12ecirconscription)"
+  },
+  {
+    "nom": "M. Michel Guiniot",
+    "region": "Hauts-de-France",
+    "departement": "Oise",
+    "email": "michel.guiniot@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Oise (6ecirconscription)"
+  },
+  {
+    "nom": "M. Nicolas Dragon",
+    "region": "Hauts-de-France",
+    "departement": "Aisne",
+    "email": "nicolas.dragon@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Aisne (1recirconscription)"
+  },
+  {
+    "nom": "M. Philippe Ballard",
+    "region": "Hauts-de-France",
+    "departement": "Oise",
+    "email": "philippe.ballard@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Oise (2ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Fait",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "philippe.fait@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Pas-de-Calais (4ecirconscription)"
+  },
+  {
+    "nom": "M. Pierre Marle",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "pierre.marle@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Nord (14ecirconscription)"
+  },
+  {
+    "nom": "M. Roger Vicot",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "roger.vicot@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Nord (11ecirconscription)"
+  },
+  {
+    "nom": "M. Sébastien Chenu",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "Sebastien.Chenu@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Nord (19ecirconscription)"
+  },
+  {
+    "nom": "M. Sébastien Huyghe",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "sebastien.huyghe@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Nord (5ecirconscription)"
+  },
+  {
+    "nom": "M. Thierry Frappé",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "thierry.frappe@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (10ecirconscription)"
+  },
+  {
+    "nom": "M. Thierry Tesson",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "thierry.tesson@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Nord (17ecirconscription)"
+  },
+  {
+    "nom": "M. Ugo Bernalicis",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "Ugo.Bernalicis@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Nord (2ecirconscription)"
+  },
+  {
+    "nom": "M. Vincent Ledoux",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "Vincent.Ledoux@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Nord (10ecirconscription)"
+  },
+  {
+    "nom": "Mme Agnès Pannier-Runacher",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "agnes.pannier-runacher@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Pas-de-Calais (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Brigitte Liso",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "Brigitte.Liso@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Nord (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Caroline Parmentier",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "caroline.parmentier@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Charlotte Parmentier-Lecocq",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "charlotte.parmentier-lecocq@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Nord (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Christine Engrand",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "christine.engrand@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Pas-de-Calais (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Claire Marais-Beuil",
+    "region": "Hauts-de-France",
+    "departement": "Oise",
+    "email": "claire.marais-beuil@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Oise (1recirconscription)"
+  },
+  {
+    "nom": "Mme Félicie Gérard",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "felicie.gerard@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Nord (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Marine Le Pen",
+    "region": "Hauts-de-France",
+    "departement": "Pas-de-Calais",
+    "email": "Marine.LePen@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (11ecirconscription)"
+  },
+  {
+    "nom": "Mme Sandra Delannoy",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "sandra.delannoy@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Nord (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Shéhérazade Bentorki",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "sheherazade.bentorki@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Nord (8ecirconscription)"
+  },
+  {
+    "nom": "Mme Valérie Létard",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "valerie.letard@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Nord (21ecirconscription)"
+  },
+  {
+    "nom": "Mme Violette Spillebout",
+    "region": "Hauts-de-France",
+    "departement": "Nord",
+    "email": "violette.spillebout@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Nord (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Véronique Ludmann",
+    "region": "Hauts-de-France",
+    "departement": "Oise",
+    "email": "veronique.ludmann@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Oise (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Yaël Ménaché",
+    "region": "Hauts-de-France",
+    "departement": "Somme",
+    "email": "yael.menache@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Somme (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Zahia Hamdane",
+    "region": "Hauts-de-France",
+    "departement": "Somme",
+    "email": "zahia.hamdane@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Somme (2ecirconscription)"
+  },
+  {
+    "nom": "M. Alexis Corbière",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "Alexis.Corbiere@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Seine-Saint-Denis (7ecirconscription)"
+  },
+  {
+    "nom": "M. Aly Diouara",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "aly.diouara@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-Saint-Denis (5ecirconscription)"
+  },
+  {
+    "nom": "M. Antoine Léaument",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "antoine.leaument@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Essonne (10ecirconscription)"
+  },
+  {
+    "nom": "M. Arnaud Bonnet",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "arnaud.bonnet@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Seine-et-Marne (8ecirconscription)"
+  },
+  {
+    "nom": "M. Arnaud Le Gall",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "arnaud.legall@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Val-d'Oise (9ecirconscription)"
+  },
+  {
+    "nom": "M. Arnaud Saint-Martin",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "arnaud.saint-martin@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-et-Marne (1recirconscription)"
+  },
+  {
+    "nom": "M. Aurélien Rousseau",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "aurelien.rousseau@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Yvelines (7ecirconscription)"
+  },
+  {
+    "nom": "M. Aurélien Saintoul",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "aurelien.saintoul@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Hauts-de-Seine (11ecirconscription)"
+  },
+  {
+    "nom": "M. Aurélien Taché",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "Aurelien.Tache@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Val-d'Oise (10ecirconscription)"
+  },
+  {
+    "nom": "M. Aymeric Caron",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "aymeric.caron@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Paris (18ecirconscription)"
+  },
+  {
+    "nom": "M. Bastien Lachaud",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "Bastien.Lachaud@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-Saint-Denis (6ecirconscription)"
+  },
+  {
+    "nom": "M. Benjamin Lucas-Lundy",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "benjamin.lucas@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Yvelines (8ecirconscription)"
+  },
+  {
+    "nom": "M. Benoît Blanchard",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "benoit.blanchard@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Val-d'Oise (4ecirconscription)"
+  },
+  {
+    "nom": "M. Bérenger Cernon",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "berenger.cernon@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Essonne (8ecirconscription)"
+  },
+  {
+    "nom": "M. Carlos Martens Bilongo",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "carlosmartens.bilongo@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Val-d'Oise (8ecirconscription)"
+  },
+  {
+    "nom": "M. Charles Rodwell",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "charles.rodwell@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Yvelines (1recirconscription)"
+  },
+  {
+    "nom": "M. Christophe Mongardien",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "christophe.mongardien@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Hauts-de-Seine (13ecirconscription)"
+  },
+  {
+    "nom": "M. Emmanuel Maurel",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "emmanuel.maurel@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Val-d'Oise (3ecirconscription)"
+  },
+  {
+    "nom": "M. Frédéric Valletoux",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "frederic.valletoux@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Seine-et-Marne (2ecirconscription)"
+  },
+  {
+    "nom": "M. Gabriel Attal",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "gabriel.attal@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Hauts-de-Seine (10ecirconscription)"
+  },
+  {
+    "nom": "M. Guillaume Gouffier Valente",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "guillaume.gouffier-valente@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Val-de-Marne (6ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Louis Thiériot",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "Jean-Louis.Thieriot@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Seine-et-Marne (3ecirconscription)"
+  },
+  {
+    "nom": "M. Julien Limongi",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "julien.limongi@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Seine-et-Marne (4ecirconscription)"
+  },
+  {
+    "nom": "M. Jérôme Guedj",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "jerome.guedj@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Essonne (6ecirconscription)"
+  },
+  {
+    "nom": "M. Jérôme Legavre",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "jerome.legavre@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-Saint-Denis (12ecirconscription)"
+  },
+  {
+    "nom": "M. Karl Olive",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "karl.olive@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Yvelines (12ecirconscription)"
+  },
+  {
+    "nom": "M. Laurent Mazaury",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "laurent.mazaury@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Yvelines (11ecirconscription)"
+  },
+  {
+    "nom": "M. Louis Boyard",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "louis.boyard@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Val-de-Marne (3ecirconscription)"
+  },
+  {
+    "nom": "M. Maxime Laisney",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "maxime.laisney@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-et-Marne (10ecirconscription)"
+  },
+  {
+    "nom": "M. Michel Barnier",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "michel.barnier@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Paris (2ecirconscription)"
+  },
+  {
+    "nom": "M. Michel Herbillon",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "Michel.Herbillon@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Val-de-Marne (8ecirconscription)"
+  },
+  {
+    "nom": "M. Nicolas Tryzna",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "nicolas.tryzna@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Val-de-Marne (7ecirconscription)"
+  },
+  {
+    "nom": "M. Olivier Faure",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "Olivier.Faure@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Seine-et-Marne (11ecirconscription)"
+  },
+  {
+    "nom": "M. Paul Midy",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "paul.midy@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Essonne (5ecirconscription)"
+  },
+  {
+    "nom": "M. Paul Vannier",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "paul.vannier@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Val-d'Oise (5ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Juvin",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "philippe.juvin@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Hauts-de-Seine (3ecirconscription)"
+  },
+  {
+    "nom": "M. Pierre Cazeneuve",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "pierre.cazeneuve@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Hauts-de-Seine (7ecirconscription)"
+  },
+  {
+    "nom": "M. Pouria Amirshahi",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "pouria.amirshahi@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Paris (5ecirconscription)"
+  },
+  {
+    "nom": "M. Rodrigo Arenas",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "rodrigo.arenas@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Paris (10ecirconscription)"
+  },
+  {
+    "nom": "M. Romain Eskenazi",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "romain.eskenazi@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Val-d'Oise (7ecirconscription)"
+  },
+  {
+    "nom": "M. Steevy Gustave",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "steevy.gustave@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Essonne (3ecirconscription)"
+  },
+  {
+    "nom": "M. Stéphane Peu",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "Stephane.Peu@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Seine-Saint-Denis (2ecirconscription)"
+  },
+  {
+    "nom": "M. Sylvain Berrios",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "sylvain.berrios@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Val-de-Marne (1recirconscription)"
+  },
+  {
+    "nom": "M. Sylvain Maillard",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "Sylvain.Maillard@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Paris (1recirconscription)"
+  },
+  {
+    "nom": "M. Thomas Lam",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "thomas.lam@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Hauts-de-Seine (2ecirconscription)"
+  },
+  {
+    "nom": "M. Thomas Portes",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "thomas.portes@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-Saint-Denis (3ecirconscription)"
+  },
+  {
+    "nom": "M. Éric Coquerel",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "Eric.Coquerel@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-Saint-Denis (1recirconscription)"
+  },
+  {
+    "nom": "Mme Anne Bergantz",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "anne.bergantz@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Yvelines (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Anne Sicard",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "anne.sicard@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Val-d'Oise (1recirconscription)"
+  },
+  {
+    "nom": "Mme Anne-Sophie Ronceret",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "anne-sophie.ronceret@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Yvelines (10ecirconscription)"
+  },
+  {
+    "nom": "Mme Aurélie Trouvé",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "aurelie.trouve@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-Saint-Denis (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Ayda Hadizadeh",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "ayda.hadizadeh@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Val-d'Oise (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Béatrice Piron",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "Beatrice.Piron@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Yvelines (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Béatrice Roullaud",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "beatrice.roullaud@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Seine-et-Marne (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Carole Guillerm",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "carole.guillerm@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Hauts-de-Seine (12ecirconscription)"
+  },
+  {
+    "nom": "Mme Catherine Ibled",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "catherine.ibled@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Paris (13ecirconscription)"
+  },
+  {
+    "nom": "Mme Claire Lejeune",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "claire.lejeune@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Essonne (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Clémence Guetté",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "clemence.guette@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Val-de-Marne (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Clémentine Autain",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "Clementine.Autain@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Seine-Saint-Denis (11ecirconscription)"
+  },
+  {
+    "nom": "Mme Constance Le Grip",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "Constance.LeGrip@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Hauts-de-Seine (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Céline Calvez",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "Celine.Calvez@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Hauts-de-Seine (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Céline Hervieu",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "celine.hervieu@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Paris (11ecirconscription)"
+  },
+  {
+    "nom": "Mme Céline Thiébault-Martinez",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "celine.thiebault-martinez@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Seine-et-Marne (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Danielle Simonnet",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "danielle.simonnet@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Paris (15ecirconscription)"
+  },
+  {
+    "nom": "Mme Danièle Obono",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "Daniele.Obono@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Paris (17ecirconscription)"
+  },
+  {
+    "nom": "Mme Dieynaba Diop",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "dieynaba.diop@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Yvelines (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Dorine Bregman",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "dorine.bregman@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Paris (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Elsa Faucillon",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "Elsa.Faucillon@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Hauts-de-Seine (1recirconscription)"
+  },
+  {
+    "nom": "Mme Emmanuelle Hoffman",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "emmanuelle.hoffman@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Paris (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Ersilia Soudais",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "ersilia.soudais@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-et-Marne (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Eva Sas",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "eva.sas@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Paris (8ecirconscription)"
+  },
+  {
+    "nom": "Mme Farida Amrani",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "farida.amrani@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Essonne (1recirconscription)"
+  },
+  {
+    "nom": "Mme Fatiha Keloua Hachi",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "fatiha.kelouahachi@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Seine-Saint-Denis (8ecirconscription)"
+  },
+  {
+    "nom": "Mme Gabrielle Cathala",
+    "region": "Ile-de-France",
+    "departement": "Val-d'Oise",
+    "email": "gabrielle.cathala@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Val-d'Oise (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Isabelle Santiago",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "isabelle.santiago@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Val-de-Marne (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Joséphine Missoffe",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "josephine.missoffe@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Paris (14ecirconscription)"
+  },
+  {
+    "nom": "Mme Julie Ozenne",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "julie.ozenne@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Essonne (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Léa Balage El Mariky",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "lea.balage@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Paris (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie Lebec",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "Marie.Lebec@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Yvelines (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie-Pierre Rixain",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "Marie-Pierre.Rixain@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Essonne (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Mathilde Panot",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "Mathilde.Panot@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Val-de-Marne (10ecirconscription)"
+  },
+  {
+    "nom": "Mme Maud Petit",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "Maud.Petit@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Val-de-Marne (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Nadège Abomangoli",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "nadege.abomangoli@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-Saint-Denis (10ecirconscription)"
+  },
+  {
+    "nom": "Mme Natalia Pouzyreff",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "Natalia.Pouzyreff@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Yvelines (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Nathalie Da Conceicao Carvalho",
+    "region": "Ile-de-France",
+    "departement": "Essonne",
+    "email": "nathalie.daconceicaocarvalho@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Essonne (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Olivia Grégoire",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "olivia.gregoire@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Paris (12ecirconscription)"
+  },
+  {
+    "nom": "Mme Patricia Lemoine",
+    "region": "Ile-de-France",
+    "departement": "Seine-et-Marne",
+    "email": "patricia.lemoine@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Seine-et-Marne (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Prisca Thevenot",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "prisca.thevenot@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Hauts-de-Seine (8ecirconscription)"
+  },
+  {
+    "nom": "Mme Sabrina Sebaihi",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "sabrina.sebaihi@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Hauts-de-Seine (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Sandrine Lalanne",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "sandrine.lalanne@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Val-de-Marne (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Sandrine Rousseau",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "sandrine.rousseau@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Paris (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Sarah Legrain",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "sarah.legrain@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Paris (16ecirconscription)"
+  },
+  {
+    "nom": "Mme Sophia Chikirou",
+    "region": "Ile-de-France",
+    "departement": "Paris",
+    "email": "sophia.chikirou@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Paris (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Sophie Taillé-Polian",
+    "region": "Ile-de-France",
+    "departement": "Val-de-Marne",
+    "email": "sophie.taille-polian@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Val-de-Marne (11ecirconscription)"
+  },
+  {
+    "nom": "Mme Soumya Bourouaha",
+    "region": "Ile-de-France",
+    "departement": "Seine-Saint-Denis",
+    "email": "soumya.bourouaha@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Seine-Saint-Denis (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Yaël Braun-Pivet",
+    "region": "Ile-de-France",
+    "departement": "Yvelines",
+    "email": "Yael.Braun-Pivet@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Yvelines (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Élisabeth de Maistre",
+    "region": "Ile-de-France",
+    "departement": "Hauts-de-Seine",
+    "email": "elisabeth.demaistre@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Hauts-de-Seine (9ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Philippe Nilor",
+    "region": "Martinique",
+    "departement": "Martinique",
+    "email": "Jean-Philippe.Nilor@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Martinique (4ecirconscription)"
+  },
+  {
+    "nom": "M. Jiovanny William",
+    "region": "Martinique",
+    "departement": "Martinique",
+    "email": "jiovanny.william@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Martinique (1recirconscription)"
+  },
+  {
+    "nom": "M. Marcellin Nadeau",
+    "region": "Martinique",
+    "departement": "Martinique",
+    "email": "marcellin.nadeau@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Martinique (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Béatrice Bellay",
+    "region": "Martinique",
+    "departement": "Martinique",
+    "email": "beatrice.bellay@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Martinique (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Anchya Bamana",
+    "region": "Mayotte",
+    "departement": "Mayotte",
+    "email": "anchya.bamana@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Mayotte (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Estelle Youssouffa",
+    "region": "Mayotte",
+    "departement": "Mayotte",
+    "email": "estelle.youssouffa@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Mayotte (1recirconscription)"
+  },
+  {
+    "nom": "M. Arthur Delaporte",
+    "region": "Normandie",
+    "departement": "Calvados",
+    "email": "arthur.delaporte@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Calvados (2ecirconscription)"
+  },
+  {
+    "nom": "M. Bertrand Bouyx",
+    "region": "Normandie",
+    "departement": "Calvados",
+    "email": "Bertrand.Bouyx@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Calvados (5ecirconscription)"
+  },
+  {
+    "nom": "M. Bertrand Sorre",
+    "region": "Normandie",
+    "departement": "Manche",
+    "email": "Bertrand.Sorre@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Manche (2ecirconscription)"
+  },
+  {
+    "nom": "M. Christophe Blanchet",
+    "region": "Normandie",
+    "departement": "Calvados",
+    "email": "Christophe.Blanchet@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Calvados (4ecirconscription)"
+  },
+  {
+    "nom": "M. Gérard Leseul",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "gerard.leseul@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Seine-Maritime (5ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Paul Lecoq",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "Jean-Paul.Lecoq@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Seine-Maritime (8ecirconscription)"
+  },
+  {
+    "nom": "M. Joël Bruneau",
+    "region": "Normandie",
+    "departement": "Calvados",
+    "email": "joel.bruneau@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Calvados (1recirconscription)"
+  },
+  {
+    "nom": "M. Jérémie Patrier-Leitus",
+    "region": "Normandie",
+    "departement": "Calvados",
+    "email": "jeremie.patrier-leitus@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Calvados (3ecirconscription)"
+  },
+  {
+    "nom": "M. Kévin Mauvieux",
+    "region": "Normandie",
+    "departement": "Eure",
+    "email": "kevin.mauvieux@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Eure (3ecirconscription)"
+  },
+  {
+    "nom": "M. Patrice Martin",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "patrice.martin@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Seine-Maritime (6ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Brun",
+    "region": "Normandie",
+    "departement": "Eure",
+    "email": "philippe.brun@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Eure (4ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Gosselin",
+    "region": "Normandie",
+    "departement": "Manche",
+    "email": "philippe.gosselin@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Manche (1recirconscription)"
+  },
+  {
+    "nom": "M. Robert Le Bourgeois",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "robert.lebourgeois@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Seine-Maritime (10ecirconscription)"
+  },
+  {
+    "nom": "M. Stéphane Travert",
+    "region": "Normandie",
+    "departement": "Manche",
+    "email": "Stephane.Travert@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Manche (3ecirconscription)"
+  },
+  {
+    "nom": "M. Thierry Liger",
+    "region": "Normandie",
+    "departement": "Orne",
+    "email": "thierry.liger@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Orne (2ecirconscription)"
+  },
+  {
+    "nom": "M. Timothée Houssin",
+    "region": "Normandie",
+    "departement": "Eure",
+    "email": "timothee.houssin@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Eure (5ecirconscription)"
+  },
+  {
+    "nom": "M. Édouard Bénard",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "edouard.benard@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Seine-Maritime (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Agnès Firmin Le Bodo",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "Agnes.FirminLeBodo@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Seine-Maritime (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Alma Dufour",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "alma.dufour@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Seine-Maritime (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Anna Pic",
+    "region": "Normandie",
+    "departement": "Manche",
+    "email": "anna.pic@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Manche (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Annie Vidal",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "Annie.Vidal@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Seine-Maritime (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Cendrine Chazé",
+    "region": "Normandie",
+    "departement": "Orne",
+    "email": "cendrine.chaze@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Orne (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Chantal Jourdan",
+    "region": "Normandie",
+    "departement": "Orne",
+    "email": "chantal.jourdan@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Orne (1recirconscription)"
+  },
+  {
+    "nom": "Mme Christine Loir",
+    "region": "Normandie",
+    "departement": "Eure",
+    "email": "christine.loir@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Eure (1recirconscription)"
+  },
+  {
+    "nom": "Mme Florence Herouin-Léautey",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "florence.herouin-leautey@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Seine-Maritime (1recirconscription)"
+  },
+  {
+    "nom": "Mme Katiana Levavasseur",
+    "region": "Normandie",
+    "departement": "Eure",
+    "email": "katiana.levavasseur@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Eure (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie-Agnès Poussier-Winsback",
+    "region": "Normandie",
+    "departement": "Seine-Maritime",
+    "email": "marieagnes.poussier-winsback@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Seine-Maritime (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Élisabeth Borne",
+    "region": "Normandie",
+    "departement": "Calvados",
+    "email": "elisabeth.borne@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Calvados (6ecirconscription)"
+  },
+  {
+    "nom": "M. Alain David",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "Alain.David@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Gironde (4ecirconscription)"
+  },
+  {
+    "nom": "M. Bartolomé Lenoir",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Creuse",
+    "email": "bartolome.lenoir@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Creuse (1recirconscription)"
+  },
+  {
+    "nom": "M. Bastien Marchive",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Deux-Sèvres",
+    "email": "bastien.marchive@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Deux-Sèvres (1recirconscription)"
+  },
+  {
+    "nom": "M. Benoît Biteau",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Charente-Maritime",
+    "email": "benoit.biteau@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Charente-Maritime (2ecirconscription)"
+  },
+  {
+    "nom": "M. Boris Vallaud",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Landes",
+    "email": "Boris.Vallaud@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Landes (3ecirconscription)"
+  },
+  {
+    "nom": "M. Christophe Plassard",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Charente-Maritime",
+    "email": "christophe.plassard@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Charente-Maritime (5ecirconscription)"
+  },
+  {
+    "nom": "M. Damien Maudet",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Haute-Vienne",
+    "email": "damien.maudet@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Haute-Vienne (1recirconscription)"
+  },
+  {
+    "nom": "M. David Habib",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Pyrénées-Atlantiques",
+    "email": "David.Habib@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Pyrénées-Atlantiques (3ecirconscription)"
+  },
+  {
+    "nom": "M. Fabrice Barusseau",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Charente-Maritime",
+    "email": "fabrice.barusseau@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Charente-Maritime (3ecirconscription)"
+  },
+  {
+    "nom": "M. François Hollande",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Corrèze",
+    "email": "francois.hollande@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Corrèze (1recirconscription)"
+  },
+  {
+    "nom": "M. Iñaki Echaniz",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Pyrénées-Atlantiques",
+    "email": "inaki.echaniz@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Pyrénées-Atlantiques (4ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Marie Fiévet",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Deux-Sèvres",
+    "email": "Jean-Marie.Fievet@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Deux-Sèvres (3ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Paul Mattei",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Pyrénées-Atlantiques",
+    "email": "Jean-Paul.Mattei@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Pyrénées-Atlantiques (2ecirconscription)"
+  },
+  {
+    "nom": "M. Lionel Causse",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Landes",
+    "email": "Lionel.Causse@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Landes (2ecirconscription)"
+  },
+  {
+    "nom": "M. Loïc Prud'homme",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "Loic.Prudhomme@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Gironde (3ecirconscription)"
+  },
+  {
+    "nom": "M. Michel Lauzzana",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Lot-et-Garonne",
+    "email": "Michel.Lauzzana@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Lot-et-Garonne (1recirconscription)"
+  },
+  {
+    "nom": "M. Nicolas Thierry",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "nicolas.thierry@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Gironde (2ecirconscription)"
+  },
+  {
+    "nom": "M. Nicolas Turquois",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Vienne",
+    "email": "Nicolas.Turquois@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Vienne (4ecirconscription)"
+  },
+  {
+    "nom": "M. Pascal Lecamp",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Vienne",
+    "email": "pascal.lecamp@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Vienne (3ecirconscription)"
+  },
+  {
+    "nom": "M. Pascal Markowsky",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Charente-Maritime",
+    "email": "pascal.markowsky@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Charente-Maritime (4ecirconscription)"
+  },
+  {
+    "nom": "M. Peio Dufau",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Pyrénées-Atlantiques",
+    "email": "peio.dufau@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Pyrénées-Atlantiques (6ecirconscription)"
+  },
+  {
+    "nom": "M. René Pilato",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Charente",
+    "email": "rene.pilato@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Charente (1recirconscription)"
+  },
+  {
+    "nom": "M. Sacha Houlié",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Vienne",
+    "email": "Sacha.Houlie@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Vienne (2ecirconscription)"
+  },
+  {
+    "nom": "M. Serge Muller",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Dordogne",
+    "email": "serge.muller@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Dordogne (2ecirconscription)"
+  },
+  {
+    "nom": "M. Stéphane Delautrette",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Haute-Vienne",
+    "email": "stephane.delautrette@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Haute-Vienne (2ecirconscription)"
+  },
+  {
+    "nom": "M. Sébastien Peytavie",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Dordogne",
+    "email": "sebastien.peytavie@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Dordogne (4ecirconscription)"
+  },
+  {
+    "nom": "M. Sébastien Saint-Pasteur",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "sebastien.saint-pasteur@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Gironde (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Alexandra Martin (Gironde)",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "alexandra.martin.gironde@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Gironde (1recirconscription)"
+  },
+  {
+    "nom": "Mme Caroline Colombier",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Charente",
+    "email": "caroline.colombier@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Charente (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Colette Capdevielle",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Pyrénées-Atlantiques",
+    "email": "colette.capdevielle@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Pyrénées-Atlantiques (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Delphine Batho",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Deux-Sèvres",
+    "email": "Delphine.Batho@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Deux-Sèvres (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Edwige Diaz",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "edwige.diaz@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Gironde (11ecirconscription)"
+  },
+  {
+    "nom": "Mme Emeline Rey-Rinchet",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Lot-et-Garonne",
+    "email": "emeline.rey@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Lot-et-Garonne (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Florence Joubert",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Dordogne",
+    "email": "florence.joubert@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Dordogne (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Frédérique Meunier",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Corrèze",
+    "email": "Frederique.Meunier@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Corrèze (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Geneviève Darrieussecq",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Landes",
+    "email": "genevieve.darrieussecq@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Landes (1recirconscription)"
+  },
+  {
+    "nom": "Mme Hélène Laporte",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Lot-et-Garonne",
+    "email": "helene.laporte@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Lot-et-Garonne (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Josy Poueyto",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Pyrénées-Atlantiques",
+    "email": "Josy.Poueyto@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Pyrénées-Atlantiques (1recirconscription)"
+  },
+  {
+    "nom": "Mme Lisa Belluco",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Vienne",
+    "email": "lisa.belluco@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Vienne (1recirconscription)"
+  },
+  {
+    "nom": "Mme Manon Meunier",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Haute-Vienne",
+    "email": "manon.meunier@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Haute-Vienne (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie Récalde",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "marie.recalde@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Gironde (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie-Sophie Bernadeau",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "marie-sophie.bernadeau@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Gironde (10ecirconscription)"
+  },
+  {
+    "nom": "Mme Mathilde Feld",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "mathilde.feld@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Gironde (12ecirconscription)"
+  },
+  {
+    "nom": "Mme Nadine Lechon",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Dordogne",
+    "email": "nadine.lechon@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Dordogne (1recirconscription)"
+  },
+  {
+    "nom": "Mme Pascale Got",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "pascale.got@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Gironde (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Sabine Gervais",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Charente-Maritime",
+    "email": "sabine.gervais@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Charente-Maritime (1recirconscription)"
+  },
+  {
+    "nom": "Mme Sandra Marsaud",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Charente",
+    "email": "Sandra.Marsaud@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Charente (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Sophie Mette",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "Sophie.Mette@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Gironde (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Sophie Panonacle",
+    "region": "Nouvelle-Aquitaine",
+    "departement": "Gironde",
+    "email": "Sophie.Panonacle@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Gironde (8ecirconscription)"
+  },
+  {
+    "nom": "M. Emmanuel Tjibaou",
+    "region": "Nouvelle-Calédonie",
+    "departement": "Nouvelle-Calédonie",
+    "email": "emmanuel.tjibaou@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Nouvelle-Calédonie (2ecirconscription)"
+  },
+  {
+    "nom": "M. Nicolas Metzdorf",
+    "region": "Nouvelle-Calédonie",
+    "departement": "Nouvelle-Calédonie",
+    "email": "nicolas.metzdorf@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Nouvelle-Calédonie (1recirconscription)"
+  },
+  {
+    "nom": "M. Alexandre Allegret-Pilot",
+    "region": "Occitanie",
+    "departement": "Gard",
+    "email": "alexandre.allegret-pilot@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Gard (5ecirconscription)"
+  },
+  {
+    "nom": "M. Arnaud Simion",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "arnaud.simion@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Haute-Garonne (6ecirconscription)"
+  },
+  {
+    "nom": "M. Aurélien Pradié",
+    "region": "Occitanie",
+    "departement": "Lot",
+    "email": "Aurelien.Pradie@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Lot (1recirconscription)"
+  },
+  {
+    "nom": "M. Bernard Chaumeil",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "bernard.chaumeil@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Hérault (7ecirconscription)"
+  },
+  {
+    "nom": "M. Charles Alloncle",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "charles.alloncle@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Hérault (9ecirconscription)"
+  },
+  {
+    "nom": "M. Christophe Bex",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "christophe.bex@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Haute-Garonne (7ecirconscription)"
+  },
+  {
+    "nom": "M. Christophe Proença",
+    "region": "Occitanie",
+    "departement": "Lot",
+    "email": "christophe.proenca@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Lot (2ecirconscription)"
+  },
+  {
+    "nom": "M. David Taupiac",
+    "region": "Occitanie",
+    "departement": "Gers",
+    "email": "david.taupiac@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Gers (2ecirconscription)"
+  },
+  {
+    "nom": "M. Denis Fégné",
+    "region": "Occitanie",
+    "departement": "Hautes-Pyrénées",
+    "email": "denis.fegne@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Hautes-Pyrénées (2ecirconscription)"
+  },
+  {
+    "nom": "M. François Piquemal",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "francois.piquemal@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Haute-Garonne (4ecirconscription)"
+  },
+  {
+    "nom": "M. Frédéric Falcon",
+    "region": "Occitanie",
+    "departement": "Aude",
+    "email": "frederic.falcon@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Aude (2ecirconscription)"
+  },
+  {
+    "nom": "M. Hadrien Clouet",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "hadrien.clouet@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Haute-Garonne (1recirconscription)"
+  },
+  {
+    "nom": "M. Jacques Oberti",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "jacques.oberti@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Haute-Garonne (10ecirconscription)"
+  },
+  {
+    "nom": "M. Jean Terlier",
+    "region": "Occitanie",
+    "departement": "Tarn",
+    "email": "Jean.Terlier@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Tarn (3ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-François Portarrieu",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "Jean-Francois.Portarrieu@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Haute-Garonne (5ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-François Rousset",
+    "region": "Occitanie",
+    "departement": "Aveyron",
+    "email": "jean-francois.rousset@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Aveyron (3ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Louis Roumégas",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "jean-louis.roumegas@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Hérault (1recirconscription)"
+  },
+  {
+    "nom": "M. Jean-René Cazeneuve",
+    "region": "Occitanie",
+    "departement": "Gers",
+    "email": "Jean-Rene.Cazeneuve@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Gers (1recirconscription)"
+  },
+  {
+    "nom": "M. Joël Aviragnet",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "Joel.Aviragnet@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Haute-Garonne (8ecirconscription)"
+  },
+  {
+    "nom": "M. Julien Gabarron",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "julien.gabarron@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Hérault (6ecirconscription)"
+  },
+  {
+    "nom": "M. Julien Rancoule",
+    "region": "Occitanie",
+    "departement": "Aude",
+    "email": "julien.rancoule@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Aude (3ecirconscription)"
+  },
+  {
+    "nom": "M. Laurent Alexandre",
+    "region": "Occitanie",
+    "departement": "Aveyron",
+    "email": "laurent.alexandre@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Aveyron (2ecirconscription)"
+  },
+  {
+    "nom": "M. Nicolas Meizonnet",
+    "region": "Occitanie",
+    "departement": "Gard",
+    "email": "nicolas.meizonnet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Gard (2ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Bonnecarrère",
+    "region": "Occitanie",
+    "departement": "Tarn",
+    "email": "philippe.bonnecarrere@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Tarn (1recirconscription)"
+  },
+  {
+    "nom": "M. Pierre Meurin",
+    "region": "Occitanie",
+    "departement": "Gard",
+    "email": "pierre.meurin@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Gard (4ecirconscription)"
+  },
+  {
+    "nom": "M. Pierre-Henri Carbonnel",
+    "region": "Occitanie",
+    "departement": "Tarn-et-Garonne",
+    "email": "pierre-henri.carbonnel@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Tarn-et-Garonne (1recirconscription)"
+  },
+  {
+    "nom": "M. Sylvain Carrière",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "sylvain.carriere@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Hérault (8ecirconscription)"
+  },
+  {
+    "nom": "M. Yoann Gillet",
+    "region": "Occitanie",
+    "departement": "Gard",
+    "email": "yoann.gillet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Gard (1recirconscription)"
+  },
+  {
+    "nom": "M. Édouard Jordan",
+    "region": "Occitanie",
+    "departement": "Aude",
+    "email": "edouard.jordan@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Aude (1recirconscription)"
+  },
+  {
+    "nom": "Mme Anaïs Sabatini",
+    "region": "Occitanie",
+    "departement": "Pyrénées-Orientales",
+    "email": "anais.sabatini@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pyrénées-Orientales (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Anne Stambach-Terrenoir",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "anne.stambach-terrenoir@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Haute-Garonne (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Audrey Abadie-Amiel",
+    "region": "Occitanie",
+    "departement": "Ariège",
+    "email": "audrey.abadie@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Ariège (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Catherine Dellong Meng",
+    "region": "Occitanie",
+    "departement": "Gard",
+    "email": "catherine.dellongmeng@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Gard (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Christine Arrighi",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "christine.arrighi@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Haute-Garonne (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Corinne Vignon",
+    "region": "Occitanie",
+    "departement": "Haute-Garonne",
+    "email": "Corinne.Vignon@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Haute-Garonne (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Fanny Dombre Coste",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "fanny.dombrecoste@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Hérault (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Karen Erodi",
+    "region": "Occitanie",
+    "departement": "Tarn",
+    "email": "karen.erodi@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Tarn (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Manon Bouquin",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "manon.bouquin@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Hérault (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Marine Hamelet",
+    "region": "Occitanie",
+    "departement": "Tarn-et-Garonne",
+    "email": "marine.hamelet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Tarn-et-Garonne (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Martine Froger",
+    "region": "Occitanie",
+    "departement": "Ariège",
+    "email": "martine.froger@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Ariège (1recirconscription)"
+  },
+  {
+    "nom": "Mme Michèle Martinez",
+    "region": "Occitanie",
+    "departement": "Pyrénées-Orientales",
+    "email": "michele.martinez@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pyrénées-Orientales (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Nathalie Oziol",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "nathalie.oziol@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Hérault (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Pauline Cestrières",
+    "region": "Occitanie",
+    "departement": "Aveyron",
+    "email": "pauline.cestrieres@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Aveyron (1recirconscription)"
+  },
+  {
+    "nom": "Mme Sandrine Dogor-Such",
+    "region": "Occitanie",
+    "departement": "Pyrénées-Orientales",
+    "email": "sandrine.dogor-such@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pyrénées-Orientales (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Sophie Blanc",
+    "region": "Occitanie",
+    "departement": "Pyrénées-Orientales",
+    "email": "sophie.blanc@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pyrénées-Orientales (1recirconscription)"
+  },
+  {
+    "nom": "Mme Sophie Pantel",
+    "region": "Occitanie",
+    "departement": "Lozère",
+    "email": "sophie.pantel@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Lozère (1recirconscription)"
+  },
+  {
+    "nom": "Mme Stéphanie Galzy",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "stephanie.galzy@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Hérault (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Sylvie Ferrer",
+    "region": "Occitanie",
+    "departement": "Hautes-Pyrénées",
+    "email": "sylvie.ferrer@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Hautes-Pyrénées (1recirconscription)"
+  },
+  {
+    "nom": "Mme Sylvie Josserand",
+    "region": "Occitanie",
+    "departement": "Gard",
+    "email": "sylvie.josserand@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Gard (6ecirconscription)"
+  },
+  {
+    "nom": "M. Andy Kerbrat",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "andy.kerbrat@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Loire-Atlantique (2ecirconscription)"
+  },
+  {
+    "nom": "M. Denis Masséglia",
+    "region": "Pays de la Loire",
+    "departement": "Maine-et-Loire",
+    "email": "Denis.Masseglia@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Maine-et-Loire (5ecirconscription)"
+  },
+  {
+    "nom": "M. Dominique Paillat",
+    "region": "Pays de la Loire",
+    "departement": "Vendée",
+    "email": "dominique.paillat@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Vendée (2ecirconscription)"
+  },
+  {
+    "nom": "M. Fabrice Roussel",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "fabrice.roussel@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Loire-Atlantique (5ecirconscription)"
+  },
+  {
+    "nom": "M. François Gernigon",
+    "region": "Pays de la Loire",
+    "departement": "Maine-et-Loire",
+    "email": "francois.gernigon@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Maine-et-Loire (1recirconscription)"
+  },
+  {
+    "nom": "M. Guillaume Garot",
+    "region": "Pays de la Loire",
+    "departement": "Mayenne",
+    "email": "Guillaume.Garot@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Mayenne (1recirconscription)"
+  },
+  {
+    "nom": "M. Jean-Carles Grelier",
+    "region": "Pays de la Loire",
+    "departement": "Sarthe",
+    "email": "Jean-Carles.Grelier@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Sarthe (5ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Claude Raux",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "jean-claude.raux@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Loire-Atlantique (6ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Michel Brard",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "jean-michel.brard@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Loire-Atlantique (9ecirconscription)"
+  },
+  {
+    "nom": "M. Karim Benbrahim",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "karim.benbrahim@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Loire-Atlantique (1recirconscription)"
+  },
+  {
+    "nom": "M. Matthias Tavel",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "matthias.tavel@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Loire-Atlantique (8ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Latombe",
+    "region": "Pays de la Loire",
+    "departement": "Vendée",
+    "email": "Philippe.Latombe@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Vendée (1recirconscription)"
+  },
+  {
+    "nom": "M. Pierre Henriet",
+    "region": "Pays de la Loire",
+    "departement": "Vendée",
+    "email": "Pierre.Henriet@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Vendée (5ecirconscription)"
+  },
+  {
+    "nom": "M. Stéphane Buchou",
+    "region": "Pays de la Loire",
+    "departement": "Vendée",
+    "email": "Stephane.Buchou@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Vendée (3ecirconscription)"
+  },
+  {
+    "nom": "M. Yannick Favennec-Bécot",
+    "region": "Pays de la Loire",
+    "departement": "Mayenne",
+    "email": "Yannick.Favennec@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Mayenne (3ecirconscription)"
+  },
+  {
+    "nom": "M. Éric Martineau",
+    "region": "Pays de la Loire",
+    "departement": "Sarthe",
+    "email": "eric.martineau@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Sarthe (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Anne-Laure Blin",
+    "region": "Pays de la Loire",
+    "departement": "Maine-et-Loire",
+    "email": "anne-laure.blin@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Maine-et-Loire (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Géraldine Bannier",
+    "region": "Pays de la Loire",
+    "departement": "Mayenne",
+    "email": "Geraldine.Bannier@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Mayenne (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Julie Delpech",
+    "region": "Pays de la Loire",
+    "departement": "Sarthe",
+    "email": "julie.delpech@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Sarthe (1recirconscription)"
+  },
+  {
+    "nom": "Mme Julie Laernoes",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "julie.laernoes@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Loire-Atlantique (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Laetitia Saint-Paul",
+    "region": "Pays de la Loire",
+    "departement": "Maine-et-Loire",
+    "email": "Laetitia.Saint-Paul@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Maine-et-Loire (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Marietta Karamanli",
+    "region": "Pays de la Loire",
+    "departement": "Sarthe",
+    "email": "Marietta.Karamanli@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Sarthe (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Nicole Dubré-Chirat",
+    "region": "Pays de la Loire",
+    "departement": "Maine-et-Loire",
+    "email": "Nicole.Dubre-Chirat@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Maine-et-Loire (6ecirconscription)"
+  },
+  {
+    "nom": "Mme Patricia Maussion",
+    "region": "Pays de la Loire",
+    "departement": "Maine-et-Loire",
+    "email": "patricia.maussion@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Maine-et-Loire (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Sandrine Josso",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "Sandrine.Josso@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Loire-Atlantique (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Sophie Errante",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "Sophie.Errante@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Loire-Atlantique (10ecirconscription)"
+  },
+  {
+    "nom": "Mme Stella Dupont",
+    "region": "Pays de la Loire",
+    "departement": "Maine-et-Loire",
+    "email": "Stella.Dupont@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Maine-et-Loire (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Ségolène Amiot",
+    "region": "Pays de la Loire",
+    "departement": "Loire-Atlantique",
+    "email": "segolene.amiot@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Loire-Atlantique (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Véronique Besse",
+    "region": "Pays de la Loire",
+    "departement": "Vendée",
+    "email": "veronique.besse@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Vendée (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Élise Leboucher",
+    "region": "Pays de la Loire",
+    "departement": "Sarthe",
+    "email": "elise.leboucher@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Sarthe (4ecirconscription)"
+  },
+  {
+    "nom": "M. Moerani Frébault",
+    "region": "Polynésie française",
+    "departement": "Polynésie Française",
+    "email": "moerani.frebault@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Polynésie Française (1recirconscription)"
+  },
+  {
+    "nom": "Mme Mereana Reid Arbelot",
+    "region": "Polynésie française",
+    "departement": "Polynésie Française",
+    "email": "mereana.reidarbelot@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Polynésie Française (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Nicole Sanquer",
+    "region": "Polynésie française",
+    "departement": "Polynésie Française",
+    "email": "nicole.sanquer@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Polynésie Française (2ecirconscription)"
+  },
+  {
+    "nom": "M. Bernard Chaix",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-Maritimes",
+    "email": "bernard.chaix@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Alpes-Maritimes (3ecirconscription)"
+  },
+  {
+    "nom": "M. Christian Girard",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-de-Haute-Provence",
+    "email": "christian.girard@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Alpes-de-Haute-Provence (1recirconscription)"
+  },
+  {
+    "nom": "M. Cyril Tribuiani",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-Maritimes",
+    "email": "cyril.tribuiani@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Alpes-Maritimes (6ecirconscription)"
+  },
+  {
+    "nom": "M. Emmanuel Fouquart",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "emmanuel.fouquart@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bouches-du-Rhône (13ecirconscription)"
+  },
+  {
+    "nom": "M. Emmanuel Taché",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "emmanuel.tache@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bouches-du-Rhône (16ecirconscription)"
+  },
+  {
+    "nom": "M. Franck Allisio",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "franck.allisio@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bouches-du-Rhône (12ecirconscription)"
+  },
+  {
+    "nom": "M. Frank Giletti",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Var",
+    "email": "frank.giletti@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Var (6ecirconscription)"
+  },
+  {
+    "nom": "M. Frédéric Boccaletti",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Var",
+    "email": "frederic.boccaletti@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Var (7ecirconscription)"
+  },
+  {
+    "nom": "M. Gabriel Tomatis",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-Maritimes",
+    "email": "gabriel.tomatis@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Alpes-Maritimes (4ecirconscription)"
+  },
+  {
+    "nom": "M. Gérault Verny",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "gerault.verny@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Bouches-du-Rhône (14ecirconscription)"
+  },
+  {
+    "nom": "M. Hendrik Davi",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "hendrik.davi@assemblee-nationale.fr",
+    "groupe": "Écologiste et Social",
+    "circonscription": "Bouches-du-Rhône (5ecirconscription)"
+  },
+  {
+    "nom": "M. Hervé de Lépinau",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Vaucluse",
+    "email": "herve.delepinau@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Vaucluse (3ecirconscription)"
+  },
+  {
+    "nom": "M. José Gonzalez",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "jose.gonzalez@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bouches-du-Rhône (10ecirconscription)"
+  },
+  {
+    "nom": "M. Laurent Lhardit",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "laurent.lhardit@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Bouches-du-Rhône (2ecirconscription)"
+  },
+  {
+    "nom": "M. Lionel Tivoli",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-Maritimes",
+    "email": "lionel.tivoli@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Alpes-Maritimes (2ecirconscription)"
+  },
+  {
+    "nom": "M. Manuel Bompard",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "manuel.bompard@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Bouches-du-Rhône (4ecirconscription)"
+  },
+  {
+    "nom": "M. Marc Pena",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "marc.pena@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Bouches-du-Rhône (11ecirconscription)"
+  },
+  {
+    "nom": "M. Olivier Fayssat",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "olivier.fayssat@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Bouches-du-Rhône (6ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Lottiaux",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Var",
+    "email": "philippe.lottiaux@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Var (4ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Schreck",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Var",
+    "email": "philippe.schreck@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Var (8ecirconscription)"
+  },
+  {
+    "nom": "M. Raphaël Arnault",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Vaucluse",
+    "email": "raphael.arnault@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Vaucluse (1recirconscription)"
+  },
+  {
+    "nom": "M. Romain Baubry",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "romain.baubry@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bouches-du-Rhône (15ecirconscription)"
+  },
+  {
+    "nom": "M. Romain Tonussi",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "romain.tonussi@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bouches-du-Rhône (8ecirconscription)"
+  },
+  {
+    "nom": "M. Stéphane Rambaud",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Var",
+    "email": "stephane.rambaud@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Var (3ecirconscription)"
+  },
+  {
+    "nom": "M. Sébastien Delogu",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "sebastien.delogu@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Bouches-du-Rhône (7ecirconscription)"
+  },
+  {
+    "nom": "M. Yannick Chenevard",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Var",
+    "email": "yannick.chenevard@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Var (1recirconscription)"
+  },
+  {
+    "nom": "M. Éric Ciotti",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-Maritimes",
+    "email": "Eric.Ciotti@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Alpes-Maritimes (1recirconscription)"
+  },
+  {
+    "nom": "M. Éric Pauget",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-Maritimes",
+    "email": "Eric.Pauget@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Alpes-Maritimes (7ecirconscription)"
+  },
+  {
+    "nom": "Mme Alexandra Martin (Alpes-Maritimes)",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-Maritimes",
+    "email": "alexandra.martin@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Alpes-Maritimes (8ecirconscription)"
+  },
+  {
+    "nom": "Mme Bénédicte Auzanot",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Vaucluse",
+    "email": "benedicte.auzanot@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Vaucluse (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Catherine Rimbert",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Vaucluse",
+    "email": "catherine.rimbert@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Vaucluse (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Christelle D'Intorni",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-Maritimes",
+    "email": "christelle.dintorni@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Alpes-Maritimes (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Gisèle Lelouis",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "gisele.lelouis@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bouches-du-Rhône (3ecirconscription)"
+  },
+  {
+    "nom": "Mme Joëlle Mélin",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "joelle.melin@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bouches-du-Rhône (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Julie Lechanteux",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Var",
+    "email": "julie.lechanteux@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Var (5ecirconscription)"
+  },
+  {
+    "nom": "Mme Laure Lavalette",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Var",
+    "email": "laure.lavalette@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Var (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie-France Lorho",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Vaucluse",
+    "email": "Marie-France.Lorho@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Vaucluse (4ecirconscription)"
+  },
+  {
+    "nom": "Mme Marie-José Allemand",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Hautes-Alpes",
+    "email": "marie-jose.allemand@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Hautes-Alpes (1recirconscription)"
+  },
+  {
+    "nom": "Mme Michèle Tabarot",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-Maritimes",
+    "email": "Michele.Tabarot@assemblee-nationale.fr",
+    "groupe": "Droite Républicaine",
+    "circonscription": "Alpes-Maritimes (9ecirconscription)"
+  },
+  {
+    "nom": "Mme Monique Griseti",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Bouches-du-Rhône",
+    "email": "monique.griseti@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Bouches-du-Rhône (1recirconscription)"
+  },
+  {
+    "nom": "Mme Sophie Ricourt Vaginay",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Alpes-de-Haute-Provence",
+    "email": "sophie.vaginay@assemblee-nationale.fr",
+    "groupe": "Union des droites pour la République",
+    "circonscription": "Alpes-de-Haute-Provence (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Valérie Rossi",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Hautes-Alpes",
+    "email": "valerie.rossi@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Hautes-Alpes (2ecirconscription)"
+  },
+  {
+    "nom": "M. Frédéric Maillot",
+    "region": "Réunion",
+    "departement": "Réunion",
+    "email": "frederic.maillot@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Réunion (6ecirconscription)"
+  },
+  {
+    "nom": "M. Jean-Hugues Ratenon",
+    "region": "Réunion",
+    "departement": "Réunion",
+    "email": "Jean-Hugues.Ratenon@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Réunion (5ecirconscription)"
+  },
+  {
+    "nom": "M. Joseph Rivière",
+    "region": "Réunion",
+    "departement": "Réunion",
+    "email": "joseph.riviere@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Réunion (3ecirconscription)"
+  },
+  {
+    "nom": "M. Perceval Gaillard",
+    "region": "Réunion",
+    "departement": "Réunion",
+    "email": "perceval.gaillard@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Réunion (7ecirconscription)"
+  },
+  {
+    "nom": "M. Philippe Naillet",
+    "region": "Réunion",
+    "departement": "Réunion",
+    "email": "philippe.naillet@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Réunion (1recirconscription)"
+  },
+  {
+    "nom": "Mme Karine Lebon",
+    "region": "Réunion",
+    "departement": "Réunion",
+    "email": "karine.lebon@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Réunion (2ecirconscription)"
+  },
+  {
+    "nom": "Mme Émeline K/Bidi",
+    "region": "Réunion",
+    "departement": "Réunion",
+    "email": "emeline.kbidi@assemblee-nationale.fr",
+    "groupe": "Gauche Démocrate et Républicaine",
+    "circonscription": "Réunion (4ecirconscription)"
+  },
+  {
+    "nom": "M. Frantz Gumbs",
+    "region": "Saint-Barthélemy et Saint-Martin",
+    "departement": "Saint-Barthélemy et Saint-Martin",
+    "email": "frantz.gumbs@assemblee-nationale.fr",
+    "groupe": "Les Démocrates",
+    "circonscription": "Saint-Barthélemy et Saint-Martin (1recirconscription)"
+  },
+  {
+    "nom": "M. Stéphane Lenormand",
+    "region": "Saint-Pierre-et-Miquelon",
+    "departement": "Saint-Pierre-et-Miquelon",
+    "email": "stephane.lenormand@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Saint-Pierre-et-Miquelon (1recirconscription)"
+  },
+  {
+    "nom": "M. Mikaele Seo",
+    "region": "Wallis-et-Futuna",
+    "departement": "Wallis-et-Futuna",
+    "email": "mikaele.seo@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Wallis-et-Futuna (1recirconscription)"
+  }
+]

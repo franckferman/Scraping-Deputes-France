@@ -1,0 +1,60 @@
+# Rafraîchit les données des députés (docs/data/) chaque semaine :
+# scrape réel -> JSON + CSV + meta, commit si changement (ce qui redéclenche
+# le déploiement Pages via static.yml), et met à jour la Release 'data-latest'
+# pour offrir une URL de téléchargement stable (consommée par d'autres projets).
+name: Refresh deputies data
+
+on:
+  schedule:
+    - cron: '17 5 * * 1'   # tous les lundis ~05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "data-refresh"
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape (JSON, France entière)
+        run: python Scraping-Deputes-France.py --region all --threads 8 --format json --output docs/data/deputes.json
+
+      - name: Dérive CSV + meta.json
+        run: python scripts/make_csv_meta.py
+
+      - name: Commit si les données ont changé
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/deputes.json docs/data/deputes.csv docs/data/meta.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement dans les données."
+          else
+            git commit -m "data: refresh députés ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Publie/actualise la Release 'data-latest'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view data-latest >/dev/null 2>&1 || \
+            gh release create data-latest \
+              --title "Données députés (dernière extraction)" \
+              --notes "Export automatique le plus récent (JSON + CSV). Régénéré chaque semaine."
+          gh release upload data-latest docs/data/deputes.json docs/data/deputes.csv --clobber
