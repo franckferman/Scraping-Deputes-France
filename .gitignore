@@ -174,3 +174,6 @@ $RECYCLE.BIN/
 # Linux
 *.lock
 *~
+
+# Python virtualenv
+.venv/

@@ -39,7 +39,7 @@
 
 ## 📖 About
 
-**Scraping-Deputes-France:** _Un outil simple et efficace pour récupérer automatiquement les informations publiques des députés français : Noms, Régions, Emails et Groupes parlementaires._
+**Scraping-Deputes-France:** _Un outil simple et efficace pour récupérer automatiquement les informations publiques des députés français : Noms, Régions, Départements, Emails, Groupes parlementaires et Circonscriptions — exportables en texte, JSON ou CSV._
 
 L'idée de ce projet est née d'un besoin simple : pouvoir récupérer facilement les emails des députés d'une région donnée pour leur envoyer des mails groupés, notamment dans un cadre politique ou citoyen. Que ce soit pour interpeller les élus sur une cause, faire des demandes officielles, ou simplement avoir accès aux coordonnées publiques, cet outil automatise cette tâche.
 
@@ -107,13 +107,16 @@ python3 Scraping-Deputes-France.py --help
 | Scraper les députés des régions par défaut (Île-de-France & PACA) | `python3 Scraping-Deputes-France.py` |
 | Scraper uniquement la région Bretagne | `python3 Scraping-Deputes-France.py --region Bretagne` |
 | Scraper plusieurs régions spécifiques | `python3 Scraping-Deputes-France.py --region Bretagne Ile-de-France` |
+| Scraper **toutes les régions** (24, dont outre-mer & Français de l'étranger) | `python3 Scraping-Deputes-France.py --region all` |
 | Lister toutes les régions valides | `python3 Scraping-Deputes-France.py --list-regions` |
+| Tester rapidement sur 10 députés | `python3 Scraping-Deputes-France.py --limit 10` |
 
 #### 📄 Personnalisation des données récupérées:
 
 | Tâche | Commande |
 | --- | --- |
 | Récupérer uniquement les noms et emails | `python3 Scraping-Deputes-France.py --fields nom,email` |
+| Champs disponibles : `nom`, `region`, `departement`, `email`, `groupe`, `circonscription` | `python3 Scraping-Deputes-France.py --fields nom,departement` |
 | Afficher les résultats sous forme de tableau ASCII | `python3 Scraping-Deputes-France.py --table` |
 | Afficher les emails sans formatage ni séparateurs | `python3 Scraping-Deputes-France.py --fields email --barefields --no-separator` |
 
@@ -129,7 +132,11 @@ python3 Scraping-Deputes-France.py --help
 | Tâche | Commande |
 | --- | --- |
 | Sauvegarder les résultats dans un fichier texte | `python3 Scraping-Deputes-France.py --output deputes.txt` |
+| Exporter en **JSON** | `python3 Scraping-Deputes-France.py --format json --output deputes.json` |
+| Exporter en **CSV** | `python3 Scraping-Deputes-France.py --format csv --output deputes.csv` |
 | Sauvegarder uniquement les emails dans un fichier | `python3 Scraping-Deputes-France.py --fields email --barefields --output emails.txt` |
+
+> **Codes de sortie :** `0` succès · `1` erreur de configuration (région/champ invalide, threads < 1) · `2` échec global (0 député récupéré). Les messages `[INFO]/[WARNING]/[ERROR]` passent par stderr — stdout reste propre pour être pipé (`json`, `csv`).
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
 
