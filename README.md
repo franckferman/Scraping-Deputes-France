@@ -16,7 +16,7 @@
 <p align="center">
     <em>Scraping des député·e·s de l’Assemblée Nationale.</em>
     <br>
-    Script pour scraper les député·e·s français (Nom, Région, Email, Groupe, Circonscription) depuis le site de l'Assemblée nationale.
+    Script pour scraper les député·e·s français (Nom, Région, Département, Email, Groupe, Circonscription) depuis le site de l'Assemblée nationale.
 </p>
 
 </div>
@@ -47,11 +47,13 @@ J'ai notamment utilisé `Scraping-Deputes-France` dans le cadre du projet [Lettr
 
 ### ⚙️ Fonctionnalités principales de _Scraping-Deputes-France_
 
-- 🔍 Scraping des députés : Récupération automatique des noms, emails, groupes et circonscriptions.
-- 📍 Sélection par région : Possibilité de filtrer les résultats par région spécifique.
-- 🚀 Multithreading : Accélération du scraping grâce à l'exécution parallèle.
+- 🔍 Scraping des députés : Récupération automatique des noms, départements, emails (adresse officielle privilégiée), groupes et circonscriptions — les 577 député·e·s.
+- 📍 Sélection par région : 24 régions couvertes (`--region all`), outre-mer et Français de l'étranger inclus.
+- 🚀 Multithreading : Accélération du scraping grâce à l'exécution parallèle (tri déterministe garanti).
+- 🛡️ Robustesse : Session HTTP avec UA navigateur, retries sur erreurs transitoires (429/5xx, `Retry-After`, backoff exponentiel), alerte si la structure du site change.
 - 📊 Affichage optimisé : Résultats sous forme de texte structuré ou tableau ASCII.
-- 💾 Exportation : Option d'enregistrement des résultats dans un fichier.
+- 💾 Exportation : Formats texte, **JSON** et **CSV**, dans un fichier ou sur stdout (diagnostics sur stderr, codes de sortie exploitables en script).
+- 🧪 Qualité : suite de tests offline + smoke test hebdomadaire en CI qui détecte un redesign du site.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/franckferman/Scraping-Deputes-France/refs/heads/stable/docs/github/graphical_resources/Screenshot-Scraping-Deputes-France_Demo.png" alt="Scraping-Deputes-France Demo Screenshot" width="auto" height="auto">
@@ -81,7 +83,7 @@ git clone https://github.com/franckferman/Scraping-Deputes-France.git
 2. **Installation sans Git (_téléchargement direct_)**:
 Si vous ne souhaitez pas cloner tout le dépôt et avez juste besoin du script, vous pouvez le télécharger directement:
 ```bash
-curl -O https://raw.githubusercontent.com/franckferman/Scraping-Deputes-France/stable/src/Scraping-Deputes-France.py
+curl -O https://raw.githubusercontent.com/franckferman/Scraping-Deputes-France/stable/Scraping-Deputes-France.py
 ```
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
@@ -137,6 +139,14 @@ python3 Scraping-Deputes-France.py --help
 | Sauvegarder uniquement les emails dans un fichier | `python3 Scraping-Deputes-France.py --fields email --barefields --output emails.txt` |
 
 > **Codes de sortie :** `0` succès · `1` erreur de configuration (région/champ invalide, threads < 1) · `2` échec global (0 député récupéré). Les messages `[INFO]/[WARNING]/[ERROR]` passent par stderr — stdout reste propre pour être pipé (`json`, `csv`).
+
+### 🧪 Tests
+
+```bash
+python3 -m pytest tests/ -q
+```
+
+Suite **offline** (15 tests) basée sur des fixtures HTML réelles du site : parsing régional, préservation des homonymes, préférence de l'email officiel, tableau ASCII, session/UA, codes de sortie de la CLI. En complément, un **smoke test hebdomadaire** en CI scrape réellement quelques fiches et échoue si la structure du site change.
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
 

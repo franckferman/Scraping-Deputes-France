@@ -26,8 +26,17 @@ import threading
 import time
 from typing import Dict, List, Optional
 
-import requests
-from bs4 import BeautifulSoup
+try:
+    import requests
+    from bs4 import BeautifulSoup
+except ImportError as exc:
+    sys.exit(
+        f"[ERREUR] Dépendance manquante : {exc.name}.\n"
+        "Installez les dépendances du projet, par exemple :\n"
+        "  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt\n"
+        "  .venv/bin/python Scraping-Deputes-France.py --help\n"
+        "(ou, dans un environnement déjà actif : pip install -r requirements.txt)"
+    )
 
 
 BASE_URL: str = "https://www.assemblee-nationale.fr"
@@ -139,7 +148,7 @@ def get_with_retries(
             resp = session.get(url, timeout=timeout)
             # 4xx (hors 429) : erreur définitive, inutile de retester
             if 400 <= resp.status_code < 500 and resp.status_code != 429:
-                print(f"[ERROR] {url} returned HTTP {resp.status_code} (not retried, file=sys.stderr)")
+                print(f"[ERROR] {url} returned HTTP {resp.status_code} (not retried)", file=sys.stderr)
                 return None
             if resp.status_code == 429 or resp.status_code >= 500:
                 raise requests.HTTPError(f"HTTP {resp.status_code}", response=resp)
@@ -358,7 +367,7 @@ def get_depute_info(
     email = next((m for m in mailtos if m.lower().endswith("@assemblee-nationale.fr")),
                  mailtos[0] if mailtos else None)
     if debug:
-        print(f"[DEBUG] Email for {name} => {email} (candidates: {mailtos}, file=sys.stderr)")
+        print(f"[DEBUG] Email for {name} => {email} (candidates: {mailtos})", file=sys.stderr)
 
     # Extraction du groupe parlementaire
     group_tag = soup.find("a", class_="h4 _colored link")
@@ -497,13 +506,13 @@ def scrape_deputes(
             deputes_data.append((dep_name, dep_url, region, dep_departement))
 
     if debug:
-        print(f"[DEBUG] Found {len(deputes_data, file=sys.stderr)} deputies total.")
+        print(f"[DEBUG] Found {len(deputes_data)} deputies total.", file=sys.stderr)
 
     # --limit : plafond global (utile pour tester rapidement)
     if limit is not None and limit >= 0:
         deputes_data = deputes_data[:limit]
         if debug:
-            print(f"[DEBUG] Limited to {len(deputes_data, file=sys.stderr)} deputies (--limit).")
+            print(f"[DEBUG] Limited to {len(deputes_data)} deputies (--limit).", file=sys.stderr)
 
     started_at = time.time()
 
