@@ -107,8 +107,8 @@
   .bars { display: flex; flex-direction: column; gap: 8px; }
   .bar-row { display: grid; grid-template-columns: 40% 1fr auto; align-items: center; gap: 10px; }
   .bar-row .bl { color: var(--text-secondary); font-size: .82rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .bar-track { background: var(--series-track); border-radius: 4px; height: 12px; position: relative; overflow: hidden; }
-  .bar-fill { background: var(--series-1); height: 100%; border-radius: 0 4px 4px 0; min-width: 2px; }
+  .bar-track { display: block; background: var(--series-track); border-radius: 4px; height: 12px; position: relative; overflow: hidden; }
+  .bar-fill { display: block; background: var(--series-1); height: 100%; border-radius: 0 4px 4px 0; min-width: 2px; }
   .bar-row .bv { color: var(--text-secondary); font-size: .82rem; font-variant-numeric: tabular-nums; min-width: 2.2em; text-align: right; }
   .bar-row:hover .bl, .bar-row:hover .bv { color: var(--text-primary); }
 
