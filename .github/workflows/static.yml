@@ -1,0 +1,43 @@
+# Déploiement du site statique (dossier docs/) sur GitHub Pages.
+name: Deploy static content to Pages
+
+on:
+  # Se déclenche uniquement quand le site (docs/) ou ce workflow change.
+  push:
+    branches: ["stable"]
+    paths:
+      - "docs/**"
+      - ".github/workflows/static.yml"
+  # Déclenchement manuel possible depuis l'onglet Actions.
+  workflow_dispatch:
+
+# Permissions du GITHUB_TOKEN pour déployer sur Pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Un seul déploiement concurrent ; on ne coupe pas un déploiement en cours.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # On ne publie que le site, pas tout le dépôt.
+          path: './docs'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

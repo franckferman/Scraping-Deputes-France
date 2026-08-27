@@ -1,0 +1,36 @@
+name: Live smoke test
+
+# Chaque semaine : scrape réellement quelques fiches sur le site de
+# l'Assemblée nationale et échoue si la structure a changé (0 résultat,
+# email manquant). C'est ce qui détecte un redesign avant que l'export
+# ne devienne silencieusement vide.
+on:
+  schedule:
+    - cron: '23 6 * * 1'   # tous les lundis ~06:23 UTC
+  workflow_dispatch:
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape 5 deputies for real and check the output
+        run: |
+          python3 Scraping-Deputes-France.py --region Corse Mayotte --threads 3 --limit 5 --format json --output /tmp/smoke.json
+          python3 - <<'EOF'
+          import json
+          data = json.load(open('/tmp/smoke.json', encoding='utf-8'))
+          assert len(data) == 5, f"expected 5 deputies, got {len(data)}"
+          with_email = sum(1 for d in data if d.get('email'))
+          assert with_email >= 4, f"only {with_email}/5 emails found - site structure changed?"
+          print(f"smoke OK: {len(data)} deputies, {with_email} with email")
+          EOF

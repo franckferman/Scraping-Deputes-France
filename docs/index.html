@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Annuaire des député·e·s - Assemblée nationale</title>
+<meta name="description" content="Annuaire recherchable des député·e·s français : région, département, groupe, circonscription et contact institutionnel. Données publiques de l'Assemblée nationale.">
+<meta name="theme-color" content="#2a78d6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d0d0d" media="(prefers-color-scheme: dark)">
+<link rel="canonical" href="https://franckferman.github.io/Scraping-Deputes-France/">
+<link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNyIgZmlsbD0iIzJhNzhkNiIvPjxnIGZpbGw9IiNmZmYiPjxwYXRoIGQ9Ik0xNiA1IDI2IDExIDYgMTFaIi8+PHJlY3QgeD0iOCIgeT0iMTMiIHdpZHRoPSIyLjYiIGhlaWdodD0iOS41Ii8+PHJlY3QgeD0iMTQuNyIgeT0iMTMiIHdpZHRoPSIyLjYiIGhlaWdodD0iOS41Ii8+PHJlY3QgeD0iMjEuNCIgeT0iMTMiIHdpZHRoPSIyLjYiIGhlaWdodD0iOS41Ii8+PHJlY3QgeD0iNiIgeT0iMjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyLjYiIHJ4PSIxIi8+PC9nPjwvc3ZnPg==">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Annuaire des député·e·s - Assemblée nationale">
+<meta property="og:description" content="Trouvez votre député·e et contactez-le·la : recherche, filtres et coordonnées institutionnelles des 577 député·e·s.">
+<meta property="og:url" content="https://franckferman.github.io/Scraping-Deputes-France/">
+<meta property="og:image" content="https://franckferman.github.io/Scraping-Deputes-France/github/graphical_resources/Banner-Scraping-Deputes-France.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Annuaire des député·e·s - Assemblée nationale">
+<meta name="twitter:description" content="Trouvez votre député·e et contactez-le·la : recherche, filtres et coordonnées des 577 député·e·s.">
+<meta name="twitter:image" content="https://franckferman.github.io/Scraping-Deputes-France/github/graphical_resources/Banner-Scraping-Deputes-France.png">
+<style>
+  :root {
+    color-scheme: light;
+    --plane:        #f9f9f7;
+    --surface-1:    #fcfcfb;
+    --text-primary: #0b0b0b;
+    --text-secondary:#52514e;
+    --muted:        #898781;
+    --gridline:     #e1e0d9;
+    --baseline:     #c3c2b7;
+    --series-1:     #2a78d6;
+    --series-track: #eef1f5;
+    --border:       rgba(11,11,11,0.10);
+    --good:         #006300;
+    --focus:        #2a78d6;
+    --radius: 12px;
+    --maxw: 1140px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --plane:        #0d0d0d;
+      --surface-1:    #1a1a19;
+      --text-primary: #ffffff;
+      --text-secondary:#c3c2b7;
+      --muted:        #898781;
+      --gridline:     #2c2c2a;
+      --baseline:     #383835;
+      --series-1:     #3987e5;
+      --series-track: #232323;
+      --border:       rgba(255,255,255,0.10);
+      --good:         #0ca30c;
+      --focus:        #3987e5;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --plane:        #0d0d0d;
+    --surface-1:    #1a1a19;
+    --text-primary: #ffffff;
+    --text-secondary:#c3c2b7;
+    --muted:        #898781;
+    --gridline:     #2c2c2a;
+    --baseline:     #383835;
+    --series-1:     #3987e5;
+    --series-track: #232323;
+    --border:       rgba(255,255,255,0.10);
+    --good:         #0ca30c;
+    --focus:        #3987e5;
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--plane);
+    color: var(--text-primary);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    line-height: 1.5;
+  }
+  a { color: var(--series-1); }
+  .wrap { max-width: var(--maxw); margin: 0 auto; padding: 24px 20px 64px; }
+
+  /* Header */
+  header.top { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  h1 { font-size: clamp(1.4rem, 3.2vw, 2rem); margin: 0 0 4px; letter-spacing: -0.01em; }
+  .subtitle { color: var(--text-secondary); margin: 0; max-width: 62ch; }
+  .theme-btn {
+    flex: none; cursor: pointer; border: 1px solid var(--border); background: var(--surface-1);
+    color: var(--text-secondary); border-radius: 999px; padding: 8px 14px; font-size: .85rem;
+  }
+  .theme-btn:hover { color: var(--text-primary); }
+
+  /* Meta bar */
+  .metabar { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 22px; margin: 22px 0 8px; }
+  .hero { display: flex; align-items: baseline; gap: 10px; }
+  .hero .n { font-size: 2.6rem; font-weight: 700; line-height: 1; }
+  .hero .lbl { color: var(--text-secondary); }
+  .meta-note { color: var(--muted); font-size: .85rem; }
+  .downloads { display: flex; gap: 8px; margin-left: auto; }
+  .chip {
+    text-decoration: none; border: 1px solid var(--border); background: var(--surface-1);
+    color: var(--text-secondary); border-radius: 999px; padding: 6px 12px; font-size: .82rem;
+  }
+  .chip:hover { color: var(--text-primary); }
+
+  .disclaimer {
+    font-size: .82rem; color: var(--muted); border-left: 3px solid var(--gridline);
+    padding: 4px 0 4px 12px; margin: 6px 0 26px; max-width: 90ch;
+  }
+
+  /* Cards / panels */
+  .panel { background: var(--surface-1); border: 1px solid var(--border); border-radius: var(--radius); }
+  section.charts { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 30px; }
+  @media (max-width: 720px) { section.charts { grid-template-columns: 1fr; } }
+  .chart { padding: 16px 18px; }
+  .chart h2 { font-size: .95rem; margin: 0 0 2px; }
+  .chart .cap { color: var(--muted); font-size: .78rem; margin: 0 0 14px; }
+
+  .bars { display: flex; flex-direction: column; gap: 8px; }
+  .bar-row { display: grid; grid-template-columns: 40% 1fr auto; align-items: center; gap: 10px; }
+  .bar-row .bl { color: var(--text-secondary); font-size: .82rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { display: block; background: var(--series-track); border-radius: 4px; height: 12px; position: relative; overflow: hidden; }
+  .bar-fill { display: block; background: var(--series-1); height: 100%; border-radius: 0 4px 4px 0; min-width: 2px; }
+  .bar-row .bv { color: var(--text-secondary); font-size: .82rem; font-variant-numeric: tabular-nums; min-width: 2.2em; text-align: right; }
+  .bar-row:hover .bl, .bar-row:hover .bv { color: var(--text-primary); }
+
+  /* Filters */
+  .filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 14px; }
+  input[type="search"], select {
+    font: inherit; color: var(--text-primary); background: var(--surface-1);
+    border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px;
+  }
+  .filters .grow { flex: 1 1 260px; }
+  .filters .grow input[type="search"] { width: 100%; }
+  .filters select { flex: 1 1 160px; min-width: 0; }
+  .filters .btn-clear { flex: 0 0 auto; }
+  input[type="search"]::placeholder { color: var(--muted); }
+  @media (max-width: 560px) {
+    .filters { flex-direction: column; align-items: stretch; }
+    .filters select, .filters .btn-clear { width: 100%; }
+  }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .btn-clear { cursor: pointer; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-secondary); border-radius: 10px; padding: 10px 14px; font: inherit; }
+  .btn-clear:hover { color: var(--text-primary); }
+
+  .count { color: var(--text-secondary); font-size: .88rem; margin: 4px 2px 16px; }
+
+  /* Deputy grid */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+  .dep { padding: 15px 16px; display: flex; flex-direction: column; gap: 8px; }
+  .dep .name { font-weight: 650; letter-spacing: -0.01em; }
+  .dep .rows { display: flex; flex-direction: column; gap: 3px; font-size: .86rem; color: var(--text-secondary); }
+  .dep .rows .k { color: var(--muted); }
+  .dep .grp {
+    display: inline-block; font-size: .76rem; color: var(--text-secondary);
+    border: 1px solid var(--border); border-radius: 999px; padding: 2px 9px; align-self: flex-start;
+  }
+  .dep .actions { margin-top: auto; padding-top: 6px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .contact {
+    display: inline-flex; align-items: center; gap: 7px; text-decoration: none;
+    color: #fff; background: var(--series-1); border-radius: 9px; padding: 8px 13px; font-size: .85rem; font-weight: 550;
+  }
+  .contact:hover { filter: brightness(1.06); }
+  .contact.disabled { background: var(--series-track); color: var(--muted); pointer-events: none; }
+  .copy {
+    display: inline-flex; align-items: center; gap: 6px; cursor: pointer; font: inherit; font-size: .85rem;
+    border: 1px solid var(--border); background: var(--surface-1); color: var(--text-secondary);
+    border-radius: 9px; padding: 8px 12px;
+  }
+  .copy:hover { color: var(--text-primary); }
+  .copy.ok { color: var(--good); border-color: var(--good); }
+
+  .empty { color: var(--muted); padding: 40px 8px; text-align: center; }
+  .status { padding: 30px 8px; color: var(--text-secondary); }
+
+  footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--gridline); color: var(--muted); font-size: .82rem; }
+  footer a { color: var(--text-secondary); }
+
+  /* Tooltip */
+  #tip {
+    position: fixed; z-index: 20; pointer-events: none; opacity: 0; transition: opacity .08s;
+    background: var(--text-primary); color: var(--plane); font-size: .78rem; padding: 5px 9px;
+    border-radius: 7px; white-space: nowrap; transform: translate(-50%, -130%);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Annuaire des député·e·s</h1>
+      <p class="subtitle">Retrouvez votre député·e à l'Assemblée nationale et contactez-le·la par son adresse institutionnelle, pour vos démarches et courriers citoyens.</p>
+    </div>
+    <button class="theme-btn" id="theme" type="button" aria-label="Changer de thème">◐ Thème</button>
+  </header>
+
+  <div class="metabar">
+    <div class="hero"><span class="n" id="hero-n">...</span><span class="lbl">député·e·s</span></div>
+    <span class="meta-note" id="meta-note"></span>
+    <div class="downloads">
+      <a class="chip" href="./data/deputes.json" download>⬇ JSON</a>
+      <a class="chip" href="./data/deputes.csv" download>⬇ CSV</a>
+      <a class="chip" href="https://github.com/franckferman/Scraping-Deputes-France/releases/tag/data-latest" rel="noopener" target="_blank" title="URL de téléchargement stable, régénérée chaque semaine, réutilisable par d'autres projets">↗ Release stable</a>
+    </div>
+  </div>
+  <p class="disclaimer">Données publiques issues du site de l'Assemblée nationale (adresses de mandat institutionnelles <code>@assemblee-nationale.fr</code>). Aucune donnée personnelle privée n'est collectée.</p>
+
+  <section class="charts" id="charts" hidden>
+    <div class="panel chart">
+      <h2>Sièges par groupe</h2>
+      <p class="cap">Répartition des député·e·s par groupe parlementaire.</p>
+      <div class="bars" id="chart-groupe"></div>
+    </div>
+    <div class="panel chart">
+      <h2>Député·e·s par région</h2>
+      <p class="cap">Nombre d'élu·e·s par région (métropole, outre-mer, étranger).</p>
+      <div class="bars" id="chart-region"></div>
+    </div>
+  </section>
+
+  <div class="filters">
+    <div class="grow">
+      <input type="search" id="q" placeholder="Rechercher : nom, ville, circonscription, email…" autocomplete="off" aria-label="Rechercher un député (nom, circonscription, département, groupe, email)">
+    </div>
+    <select id="f-region" aria-label="Filtrer par région"><option value="">Toutes les régions</option></select>
+    <select id="f-dep" aria-label="Filtrer par département"><option value="">Tous les départements</option></select>
+    <select id="f-groupe" aria-label="Filtrer par groupe"><option value="">Tous les groupes</option></select>
+    <select id="f-sort" aria-label="Trier les résultats">
+      <option value="region">Tri : région</option>
+      <option value="nom">Tri : nom</option>
+      <option value="groupe">Tri : groupe</option>
+    </select>
+    <button class="btn-clear" id="clear" type="button">Réinitialiser</button>
+  </div>
+
+  <p class="count" id="count" aria-live="polite"></p>
+
+  <div id="status" class="status">Chargement des données…</div>
+  <div class="grid" id="grid" role="list"></div>
+
+  <footer>
+    Source : <a href="https://www.assemblee-nationale.fr/" rel="noopener" target="_blank">assemblee-nationale.fr</a> ·
+    Données extraites par <a href="https://github.com/franckferman/Scraping-Deputes-France" rel="noopener" target="_blank">Scraping-Deputes-France</a> ·
+    <span id="foot-date"></span>
+  </footer>
+</div>
+
+<div id="tip" role="status"></div>
+
+<script>
+(function () {
+  "use strict";
+
+  // ---- Thème (mémorisé) ----
+  var root = document.documentElement;
+  try {
+    var saved = localStorage.getItem("theme");
+    if (saved === "dark" || saved === "light") root.setAttribute("data-theme", saved);
+  } catch (e) {}
+  document.getElementById("theme").addEventListener("click", function () {
+    var isDark = getComputedStyle(root).colorScheme.indexOf("dark") !== -1;
+    var next = isDark ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("theme", next); } catch (e) {}
+  });
+
+  function esc(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  }
+  function norm(s) {
+    return String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
+  var els = {
+    hero: document.getElementById("hero-n"),
+    metaNote: document.getElementById("meta-note"),
+    footDate: document.getElementById("foot-date"),
+    charts: document.getElementById("charts"),
+    chartGroupe: document.getElementById("chart-groupe"),
+    chartRegion: document.getElementById("chart-region"),
+    q: document.getElementById("q"),
+    fRegion: document.getElementById("f-region"),
+    fDep: document.getElementById("f-dep"),
+    fGroupe: document.getElementById("f-groupe"),
+    fSort: document.getElementById("f-sort"),
+    clear: document.getElementById("clear"),
+    count: document.getElementById("count"),
+    status: document.getElementById("status"),
+    grid: document.getElementById("grid"),
+    tip: document.getElementById("tip")
+  };
+
+  var DATA = [];
+
+  function cmp(a, b) { return String(a || "").localeCompare(String(b || ""), "fr"); }
+  function byNom(a, b) { return cmp(a.nom, b.nom); }
+
+  function uniqSorted(arr) {
+    return Array.from(new Set(arr.filter(Boolean))).sort(function (a, b) { return cmp(a, b); });
+  }
+
+  // Repeuple un <select> en conservant sa 1re option ("Tous / Toutes").
+  function fillSelect(sel, values) {
+    while (sel.options.length > 1) sel.remove(1);
+    var frag = document.createDocumentFragment();
+    values.forEach(function (v) {
+      var o = document.createElement("option");
+      o.value = v; o.textContent = v;
+      frag.appendChild(o);
+    });
+    sel.appendChild(frag);
+  }
+
+  // Départements disponibles pour la région choisie (cascade).
+  function depsForRegion(region) {
+    var rows = region ? DATA.filter(function (d) { return d.region === region; }) : DATA;
+    return uniqSorted(rows.map(function (d) { return d.departement; }));
+  }
+  function refreshDepOptions() {
+    var cur = els.fDep.value;
+    var deps = depsForRegion(els.fRegion.value);
+    fillSelect(els.fDep, deps);
+    els.fDep.value = (cur && deps.indexOf(cur) !== -1) ? cur : "";
+  }
+
+  // ---- Graphes (barres classées, une seule teinte) ----
+  function renderBars(container, counts) {
+    var entries = Object.keys(counts).map(function (k) { return [k, counts[k]]; });
+    entries.sort(function (a, b) { return b[1] - a[1]; });
+    var max = entries.length ? entries[0][1] : 1;
+    var total = entries.reduce(function (s, e) { return s + e[1]; }, 0);
+    var html = entries.map(function (e) {
+      var pct = Math.round((e[1] / total) * 100);
+      var w = Math.max(2, Math.round((e[1] / max) * 100));
+      var info = e[1] + ' député·e·s · ' + pct + '%';
+      // title = accessible/tactile (mobile) ; data-* = tooltip souris (desktop).
+      return '<div class="bar-row" title="' + esc(e[0] + ' - ' + info) + '" data-label="' + esc(e[0]) +
+             '" data-info="' + esc(info) + '">' +
+             '<span class="bl">' + esc(e[0]) + '</span>' +
+             '<span class="bar-track"><span class="bar-fill" style="width:' + w + '%"></span></span>' +
+             '<span class="bv">' + e[1] + '</span></div>';
+    }).join("");
+    container.innerHTML = html;
+  }
+
+  function countBy(rows, key) {
+    var c = {};
+    rows.forEach(function (r) { var v = r[key] || "-"; c[v] = (c[v] || 0) + 1; });
+    return c;
+  }
+
+  // ---- Tooltip des barres (souris) ----
+  function bindTooltip(container) {
+    container.addEventListener("mousemove", function (ev) {
+      var row = ev.target.closest(".bar-row");
+      if (!row) { els.tip.style.opacity = 0; return; }
+      els.tip.textContent = row.getAttribute("data-label") + " - " + row.getAttribute("data-info");
+      els.tip.style.left = ev.clientX + "px";
+      els.tip.style.top = ev.clientY + "px";
+      els.tip.style.opacity = 1;
+    });
+    container.addEventListener("mouseleave", function () { els.tip.style.opacity = 0; });
+  }
+
+  // ---- Rendu de l'annuaire ----
+  function card(d) {
+    var loc = d.circonscription || d.departement || d.region || "";
+    var actions = d.email
+      ? '<a class="contact" href="mailto:' + esc(d.email) + '">✉ Contacter</a>' +
+        '<button class="copy" type="button" data-email="' + esc(d.email) + '" aria-label="Copier l\'adresse email">⧉ Copier</button>'
+      : '<span class="contact disabled">Email indisponible</span>';
+    return '<article class="panel dep" role="listitem">' +
+      '<div class="name">' + esc(d.nom) + '</div>' +
+      (d.groupe ? '<span class="grp">' + esc(d.groupe) + '</span>' : '') +
+      '<div class="rows">' +
+        '<div><span class="k">Région :</span> ' + esc(d.region || "-") +
+          (d.departement ? ' · ' + esc(d.departement) : '') + '</div>' +
+        (loc ? '<div><span class="k">Circonscription :</span> ' + esc(loc) + '</div>' : '') +
+      '</div>' +
+      '<div class="actions">' + actions + '</div>' +
+    '</article>';
+  }
+
+  function sortRows(rows, mode) {
+    var r = rows.slice();
+    if (mode === "nom") r.sort(byNom);
+    else if (mode === "groupe") r.sort(function (a, b) { return cmp(a.groupe, b.groupe) || byNom(a, b); });
+    else r.sort(function (a, b) { return cmp(a.region, b.region) || byNom(a, b); });
+    return r;
+  }
+
+  // ---- État partageable dans l'URL (#q=…&region=…&dep=…&groupe=…&sort=…) ----
+  function writeHash() {
+    var p = [];
+    if (els.q.value.trim()) p.push("q=" + encodeURIComponent(els.q.value.trim()));
+    if (els.fRegion.value)  p.push("region=" + encodeURIComponent(els.fRegion.value));
+    if (els.fDep.value)     p.push("dep=" + encodeURIComponent(els.fDep.value));
+    if (els.fGroupe.value)  p.push("groupe=" + encodeURIComponent(els.fGroupe.value));
+    if (els.fSort.value && els.fSort.value !== "region") p.push("sort=" + encodeURIComponent(els.fSort.value));
+    var hash = p.length ? "#" + p.join("&") : "";
+    try { history.replaceState(null, "", location.pathname + location.search + hash); }
+    catch (e) { location.hash = hash; }
+  }
+  function readHash() {
+    var o = {}, h = location.hash.replace(/^#/, "");
+    if (!h) return o;
+    h.split("&").forEach(function (kv) {
+      var i = kv.indexOf("="); if (i < 0) return;
+      try { o[kv.slice(0, i)] = decodeURIComponent(kv.slice(i + 1).replace(/\+/g, " ")); } catch (e) {}
+    });
+    return o;
+  }
+
+  function apply() {
+    var q = norm(els.q.value.trim());
+    var reg = els.fRegion.value, dep = els.fDep.value, grp = els.fGroupe.value;
+    var out = DATA.filter(function (d) {
+      if (reg && d.region !== reg) return false;
+      if (dep && d.departement !== dep) return false;
+      if (grp && (d.groupe || "") !== grp) return false;
+      if (q) {
+        var hay = norm([d.nom, d.region, d.departement, d.circonscription, d.groupe, d.email].join(" "));
+        if (hay.indexOf(q) === -1) return false;
+      }
+      return true;
+    });
+    out = sortRows(out, els.fSort.value);
+    els.count.textContent = out.length + " résultat" + (out.length > 1 ? "s" : "") +
+      (out.length !== DATA.length ? " sur " + DATA.length : "");
+    els.status.hidden = true; els.status.innerHTML = "";
+    els.grid.innerHTML = out.length
+      ? out.map(card).join("")
+      : '<p class="empty">Aucun·e député·e ne correspond à ces critères.</p>';
+    writeHash();
+  }
+
+  function init(rows) {
+    DATA = rows.slice();
+    els.hero.textContent = DATA.length.toLocaleString("fr-FR");
+    fillSelect(els.fRegion, uniqSorted(DATA.map(function (d) { return d.region; })));
+    fillSelect(els.fGroupe, uniqSorted(DATA.map(function (d) { return d.groupe; })));
+    refreshDepOptions();
+
+    renderBars(els.chartGroupe, countBy(DATA, "groupe"));
+    renderBars(els.chartRegion, countBy(DATA, "region"));
+    els.charts.hidden = false;
+    bindTooltip(els.chartGroupe);
+    bindTooltip(els.chartRegion);
+
+    // Restaure l'état depuis l'URL (ordre important : région avant département).
+    var st = readHash();
+    if (st.region) els.fRegion.value = st.region;
+    refreshDepOptions();
+    if (st.dep)    els.fDep.value = st.dep;
+    if (st.groupe) els.fGroupe.value = st.groupe;
+    if (st.sort)   els.fSort.value = st.sort;
+    if (st.q)      els.q.value = st.q;
+
+    els.q.addEventListener("input", apply);
+    els.fRegion.addEventListener("change", function () { refreshDepOptions(); apply(); });
+    els.fDep.addEventListener("change", apply);
+    els.fGroupe.addEventListener("change", apply);
+    els.fSort.addEventListener("change", apply);
+    els.clear.addEventListener("click", function () {
+      els.q.value = ""; els.fRegion.value = ""; refreshDepOptions();
+      els.fDep.value = ""; els.fGroupe.value = ""; els.fSort.value = "region"; apply();
+    });
+
+    // Copier l'email (délégation d'événement).
+    els.grid.addEventListener("click", function (ev) {
+      var btn = ev.target.closest(".copy"); if (!btn) return;
+      var email = btn.getAttribute("data-email");
+      var ok = function () {
+        var prev = btn.textContent; btn.textContent = "✓ Copié"; btn.classList.add("ok");
+        setTimeout(function () { btn.textContent = prev; btn.classList.remove("ok"); }, 1200);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(email).then(ok, function () {});
+      } else {
+        try {
+          var ta = document.createElement("textarea"); ta.value = email;
+          ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta);
+          ta.select(); document.execCommand("copy"); document.body.removeChild(ta); ok();
+        } catch (e) {}
+      }
+    });
+
+    apply();
+  }
+
+  // ---- Métadonnées (date de génération) ----
+  fetch("./data/meta.json", { cache: "no-store" })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (m) {
+      if (!m) return;
+      var d = m.generated_at ? new Date(m.generated_at) : null;
+      if (d && !isNaN(d)) {
+        var txt = "Mis à jour le " + d.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
+        els.metaNote.textContent = txt;
+        els.footDate.textContent = txt;
+      }
+    })
+    .catch(function () {});
+
+  // ---- Données principales ----
+  fetch("./data/deputes.json", { cache: "no-store" })
+    .then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    })
+    .then(function (rows) {
+      if (!Array.isArray(rows) || !rows.length) throw new Error("jeu de données vide");
+      init(rows);
+    })
+    .catch(function (err) {
+      els.status.innerHTML = "Impossible de charger les données (" + esc(err.message) + ").<br>" +
+        'Vérifiez la présence de <code>data/deputes.json</code>.';
+    });
+})();
+</script>
+</body>
+</html>
