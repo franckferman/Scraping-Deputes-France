@@ -984,6 +984,14 @@
     "circonscription": "Loiret (2e circonscription)"
   },
   {
+    "nom": "M. Eric Gerard",
+    "region": "Centre-Val de Loire",
+    "departement": "Eure-et-Loir",
+    "email": null,
+    "groupe": "Non inscrit",
+    "circonscription": "Eure-et-Loir (3e circonscription)"
+  },
+  {
     "nom": "M. François Cormier-Bouligeon",
     "region": "Centre-Val de Loire",
     "departement": "Cher",
@@ -1006,14 +1014,6 @@
     "email": "Guillaume.Kasbarian@assemblee-nationale.fr",
     "groupe": "Ensemble pour la République",
     "circonscription": "Eure-et-Loir (1re circonscription)"
-  },
-  {
-    "nom": "M. Harold Huwart",
-    "region": "Centre-Val de Loire",
-    "departement": "Eure-et-Loir",
-    "email": "harold.huwart@assemblee-nationale.fr",
-    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
-    "circonscription": "Eure-et-Loir (3e circonscription)"
   },
   {
     "nom": "M. Henri Alfandari",
