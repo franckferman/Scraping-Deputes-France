@@ -984,14 +984,6 @@
     "circonscription": "Loiret (2e circonscription)"
   },
   {
-    "nom": "M. Eric Gérard",
-    "region": "Centre-Val de Loire",
-    "departement": "Eure-et-Loir",
-    "email": "eric.gerard@assemblee-nationale.fr",
-    "groupe": "Non inscrit",
-    "circonscription": "Eure-et-Loir (3e circonscription)"
-  },
-  {
     "nom": "M. François Cormier-Bouligeon",
     "region": "Centre-Val de Loire",
     "departement": "Cher",
@@ -1086,6 +1078,14 @@
     "email": "thomas.menage@assemblee-nationale.fr",
     "groupe": "Rassemblement National",
     "circonscription": "Loiret (4e circonscription)"
+  },
+  {
+    "nom": "M. Éric Gérard",
+    "region": "Centre-Val de Loire",
+    "departement": "Eure-et-Loir",
+    "email": "eric.gerard@assemblee-nationale.fr",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "circonscription": "Eure-et-Loir (3e circonscription)"
   },
   {
     "nom": "Mme Alix Fruchon",
