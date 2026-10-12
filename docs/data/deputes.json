@@ -139,9 +139,9 @@
     "nom": "M. Jean-Yves Bony",
     "region": "Auvergne-Rhône-Alpes",
     "departement": "Cantal",
-    "email": "Jean-Yves.Bony@assemblee-nationale.fr",
-    "groupe": "Droite Républicaine",
-    "circonscription": "Cantal (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Jonathan Gery",
@@ -283,9 +283,9 @@
     "nom": "M. Vincent Trébuchet",
     "region": "Auvergne-Rhône-Alpes",
     "departement": "Ardèche",
-    "email": "vincent.trebuchet@assemblee-nationale.fr",
-    "groupe": "Union des droites pour la République",
-    "circonscription": "Ardèche (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Xavier Breton",
@@ -411,9 +411,9 @@
     "nom": "Mme Marie Pochon",
     "region": "Auvergne-Rhône-Alpes",
     "departement": "Drôme",
-    "email": "marie.pochon@assemblee-nationale.fr",
-    "groupe": "Écologiste et Social",
-    "circonscription": "Drôme (3e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Marie-Charlotte Garin",
@@ -430,6 +430,14 @@
     "email": "Marie-Noelle.Battistel@assemblee-nationale.fr",
     "groupe": "Socialistes et apparentés",
     "circonscription": "Isère (4e circonscription)"
+  },
+  {
+    "nom": "Mme Melouka Hadj-Mimoune",
+    "region": "Auvergne-Rhône-Alpes",
+    "departement": "Rhône",
+    "email": null,
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Rhône (6e circonscription)"
   },
   {
     "nom": "Mme Olga Givernet",
@@ -976,6 +984,14 @@
     "circonscription": "Loiret (2e circonscription)"
   },
   {
+    "nom": "M. Emmanuel Riotte",
+    "region": "Centre-Val de Loire",
+    "departement": "Cher",
+    "email": "emmanuel.riotte@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Cher (3e circonscription)"
+  },
+  {
     "nom": "M. François Cormier-Bouligeon",
     "region": "Centre-Val de Loire",
     "departement": "Cher",
@@ -1115,9 +1131,9 @@
     "nom": "M. François-Xavier Ceccoli",
     "region": "Corse",
     "departement": "Haute-Corse",
-    "email": "francois-xavier.ceccoli@assemblee-nationale.fr",
-    "groupe": "Droite Républicaine",
-    "circonscription": "Haute-Corse (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Laurent Marcangeli",
@@ -1147,41 +1163,41 @@
     "nom": "M. Benoît Larrouquis",
     "region": "Français établis hors de France",
     "departement": "Français établis hors de France",
-    "email": "benoit.larrouquis@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Français établis hors de France (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Christopher Weissberg",
     "region": "Français établis hors de France",
     "departement": "Français établis hors de France",
-    "email": "christopher.weissberg@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Français établis hors de France (1re circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Frédéric Petit",
     "region": "Français établis hors de France",
     "departement": "Français établis hors de France",
-    "email": "Frederic.Petit@assemblee-nationale.fr",
-    "groupe": "Les Démocrates",
-    "circonscription": "Français établis hors de France (7e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Karim Ben Cheikh",
     "region": "Français établis hors de France",
     "departement": "Français établis hors de France",
-    "email": "karim.bencheikh@assemblee-nationale.fr",
-    "groupe": "Écologiste et Social",
-    "circonscription": "Français établis hors de France (9e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Marc Ferracci",
     "region": "Français établis hors de France",
     "departement": "Français établis hors de France",
-    "email": "marc.ferracci@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Français établis hors de France (6e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Pieyre-Alexandre Anglade",
@@ -1203,33 +1219,33 @@
     "nom": "Mme Amélia Lakrafi",
     "region": "Français établis hors de France",
     "departement": "Français établis hors de France",
-    "email": "amelia.lakrafi@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Français établis hors de France (10e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Anne Genetet",
     "region": "Français établis hors de France",
     "departement": "Français établis hors de France",
-    "email": "Anne.Genetet@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Français établis hors de France (11e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Caroline Yadan",
     "region": "Français établis hors de France",
     "departement": "Français établis hors de France",
-    "email": "caroline.yadan@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Français établis hors de France (8e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Nathalie Coggia",
     "region": "Français établis hors de France",
     "departement": "Français établis hors de France",
-    "email": "nathalie.coggia@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Français établis hors de France (5e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Alexandre Loubet",
@@ -1259,65 +1275,65 @@
     "nom": "M. Bruno Fuchs",
     "region": "Grand Est",
     "departement": "Haut-Rhin",
-    "email": "Bruno.Fuchs@assemblee-nationale.fr",
-    "groupe": "Les Démocrates",
-    "circonscription": "Haut-Rhin (6e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Charles Sitzenstuhl",
     "region": "Grand Est",
     "departement": "Bas-Rhin",
-    "email": "charles.sitzenstuhl@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Bas-Rhin (5e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Charles de Courson",
     "region": "Grand Est",
     "departement": "Marne",
-    "email": "Charles.deCourson@assemblee-nationale.fr",
-    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
-    "circonscription": "Marne (5e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Christophe Bentz",
     "region": "Grand Est",
     "departement": "Haute-Marne",
-    "email": "christophe.bentz@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Haute-Marne (1re circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Christophe Naegelen",
     "region": "Grand Est",
     "departement": "Vosges",
-    "email": "Christophe.Naegelen@assemblee-nationale.fr",
-    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
-    "circonscription": "Vosges (3e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Didier Lemaire",
     "region": "Grand Est",
     "departement": "Haut-Rhin",
-    "email": "didier.lemaire@assemblee-nationale.fr",
-    "groupe": "Horizons & Indépendants",
-    "circonscription": "Haut-Rhin (3e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Dominique Potier",
     "region": "Grand Est",
     "departement": "Meurthe-et-Moselle",
-    "email": "Dominique.Potier@assemblee-nationale.fr",
-    "groupe": "Socialistes et apparentés",
-    "circonscription": "Meurthe-et-Moselle (5e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Emmanuel Fernandes",
     "region": "Grand Est",
     "departement": "Bas-Rhin",
-    "email": "emmanuel.fernandes@assemblee-nationale.fr",
-    "groupe": "La France insoumise - Nouveau Front Populaire",
-    "circonscription": "Bas-Rhin (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Frédéric Weber",
@@ -1331,25 +1347,25 @@
     "nom": "M. Gaëtan Dussausaye",
     "region": "Grand Est",
     "departement": "Vosges",
-    "email": "gaetan.dussausaye@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Vosges (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Hubert Ott",
     "region": "Grand Est",
     "departement": "Haut-Rhin",
-    "email": "hubert.ott@assemblee-nationale.fr",
-    "groupe": "Les Démocrates",
-    "circonscription": "Haut-Rhin (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Jean-Luc Warsmann",
     "region": "Grand Est",
     "departement": "Ardennes",
-    "email": "Jean-Luc.Warsmann@assemblee-nationale.fr",
-    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
-    "circonscription": "Ardennes (3e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Jordan Guitton",
@@ -1395,9 +1411,9 @@
     "nom": "M. Ludovic Mendes",
     "region": "Grand Est",
     "departement": "Moselle",
-    "email": "Ludovic.Mendes@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Moselle (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Maxime Amblard",
@@ -1419,9 +1435,9 @@
     "nom": "M. Olivier Becht",
     "region": "Grand Est",
     "departement": "Haut-Rhin",
-    "email": "olivier.becht@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Haut-Rhin (5e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Pascal Jenft",
@@ -1435,25 +1451,25 @@
     "nom": "M. Patrick Hetzel",
     "region": "Grand Est",
     "departement": "Bas-Rhin",
-    "email": "Patrick.Hetzel@assemblee-nationale.fr",
-    "groupe": "Droite Républicaine",
-    "circonscription": "Bas-Rhin (7e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Pierre Cordier",
     "region": "Grand Est",
     "departement": "Ardennes",
-    "email": "Pierre.Cordier@assemblee-nationale.fr",
-    "groupe": "Droite Républicaine",
-    "circonscription": "Ardennes (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Raphaël Schellenberger",
     "region": "Grand Est",
     "departement": "Haut-Rhin",
-    "email": "Raphael.Schellenberger@assemblee-nationale.fr",
-    "groupe": "Non inscrit",
-    "circonscription": "Haut-Rhin (4e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Stéphane Hablot",
@@ -1475,9 +1491,9 @@
     "nom": "M. Sébastien Humbert",
     "region": "Grand Est",
     "departement": "Vosges",
-    "email": "sebastien.humbert@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Vosges (4e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Thibault Bazin",
@@ -1491,49 +1507,49 @@
     "nom": "M. Thierry Sother",
     "region": "Grand Est",
     "departement": "Bas-Rhin",
-    "email": "thierry.sother@assemblee-nationale.fr",
-    "groupe": "Socialistes et apparentés",
-    "circonscription": "Bas-Rhin (3e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Théo Bernhardt",
     "region": "Grand Est",
     "departement": "Bas-Rhin",
-    "email": "theo.bernhardt@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Bas-Rhin (8e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Vincent Thiébaut",
     "region": "Grand Est",
     "departement": "Bas-Rhin",
-    "email": "Vincent.Thiebaut@assemblee-nationale.fr",
-    "groupe": "Horizons & Indépendants",
-    "circonscription": "Bas-Rhin (9e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Xavier Albertini",
     "region": "Grand Est",
     "departement": "Marne",
-    "email": "xavier.albertini@assemblee-nationale.fr",
-    "groupe": "Horizons & Indépendants",
-    "circonscription": "Marne (1re circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Angélique Ranc",
     "region": "Grand Est",
     "departement": "Aube",
-    "email": "angelique.ranc@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Aube (3e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Brigitte Klinkert",
     "region": "Grand Est",
     "departement": "Haut-Rhin",
-    "email": "brigitte.klinkert@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Haut-Rhin (1re circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Estelle Mercier",
@@ -1555,9 +1571,9 @@
     "nom": "Mme Françoise Buffet",
     "region": "Grand Est",
     "departement": "Bas-Rhin",
-    "email": "francoise.buffet@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Bas-Rhin (4e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Isabelle Rauch",
@@ -1579,9 +1595,9 @@
     "nom": "Mme Laurence Robert-Dehault",
     "region": "Grand Est",
     "departement": "Haute-Marne",
-    "email": "laurence.robert-dehault@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Haute-Marne (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Lise Magnier",
@@ -1595,9 +1611,9 @@
     "nom": "Mme Louise Morel",
     "region": "Grand Est",
     "departement": "Bas-Rhin",
-    "email": "louise.morel@assemblee-nationale.fr",
-    "groupe": "Les Démocrates",
-    "circonscription": "Bas-Rhin (6e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Nathalie Colin-Oesterlé",
@@ -1611,9 +1627,9 @@
     "nom": "Mme Sandra Regol",
     "region": "Grand Est",
     "departement": "Bas-Rhin",
-    "email": "sandra.regol@assemblee-nationale.fr",
-    "groupe": "Écologiste et Social",
-    "circonscription": "Bas-Rhin (1re circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Christian Baptiste",
@@ -1683,17 +1699,17 @@
     "nom": "M. Antoine Golliot",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "antoine.golliot@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (5e circonscription)"
   },
   {
     "nom": "M. Auguste Evrard",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "auguste.evrard@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (8e circonscription)"
   },
   {
     "nom": "M. Aurélien Le Coq",
@@ -1707,25 +1723,25 @@
     "nom": "M. Bruno Bilde",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "Bruno.Bilde@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (12e circonscription)"
   },
   {
     "nom": "M. Bruno Clavet",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "bruno.clavet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (3e circonscription)"
   },
   {
     "nom": "M. David Magnier",
     "region": "Hauts-de-France",
     "departement": "Oise",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "david.magnier@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Oise (7e circonscription)"
   },
   {
     "nom": "M. Eddy Casterman",
@@ -1739,9 +1755,9 @@
     "nom": "M. Emmanuel Blairy",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "emmanuel.blairy@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (1re circonscription)"
   },
   {
     "nom": "M. François Ruffin",
@@ -1755,9 +1771,9 @@
     "nom": "M. Frédéric-Pierre Vos",
     "region": "Hauts-de-France",
     "departement": "Oise",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "fredericpierre.vos@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Oise (5e circonscription)"
   },
   {
     "nom": "M. Guillaume Florquin",
@@ -1819,17 +1835,17 @@
     "nom": "M. Marc de Fleurian",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "marc.defleurian@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (7e circonscription)"
   },
   {
     "nom": "M. Matthias Renault",
     "region": "Hauts-de-France",
     "departement": "Somme",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "matthias.renault@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Somme (3e circonscription)"
   },
   {
     "nom": "M. Matthieu Marchio",
@@ -1843,9 +1859,9 @@
     "nom": "M. Michaël Taverne",
     "region": "Hauts-de-France",
     "departement": "Nord",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "michael.taverne@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Nord (12e circonscription)"
   },
   {
     "nom": "M. Michel Guiniot",
@@ -1867,17 +1883,17 @@
     "nom": "M. Philippe Ballard",
     "region": "Hauts-de-France",
     "departement": "Oise",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "philippe.ballard@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Oise (2e circonscription)"
   },
   {
     "nom": "M. Philippe Fait",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "philippe.fait@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Pas-de-Calais (4e circonscription)"
   },
   {
     "nom": "M. Pierre Marle",
@@ -1891,9 +1907,9 @@
     "nom": "M. Roger Vicot",
     "region": "Hauts-de-France",
     "departement": "Nord",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "roger.vicot@assemblee-nationale.fr",
+    "groupe": "Socialistes et apparentés",
+    "circonscription": "Nord (11e circonscription)"
   },
   {
     "nom": "M. Sébastien Chenu",
@@ -1915,9 +1931,9 @@
     "nom": "M. Thierry Frappé",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "thierry.frappe@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Pas-de-Calais (10e circonscription)"
   },
   {
     "nom": "M. Thierry Tesson",
@@ -1947,9 +1963,9 @@
     "nom": "Mme Agnès Pannier-Runacher",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "agnes.pannier-runacher@assemblee-nationale.fr",
+    "groupe": "Ensemble pour la République",
+    "circonscription": "Pas-de-Calais (2e circonscription)"
   },
   {
     "nom": "Mme Brigitte Liso",
@@ -1979,9 +1995,9 @@
     "nom": "Mme Christine Engrand",
     "region": "Hauts-de-France",
     "departement": "Pas-de-Calais",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "christine.engrand@assemblee-nationale.fr",
+    "groupe": "Non inscrit",
+    "circonscription": "Pas-de-Calais (6e circonscription)"
   },
   {
     "nom": "Mme Claire Marais-Beuil",
@@ -2043,25 +2059,25 @@
     "nom": "Mme Véronique Ludmann",
     "region": "Hauts-de-France",
     "departement": "Oise",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "veronique.ludmann@assemblee-nationale.fr",
+    "groupe": "Horizons & Indépendants",
+    "circonscription": "Oise (4e circonscription)"
   },
   {
     "nom": "Mme Yaël Ménaché",
     "region": "Hauts-de-France",
     "departement": "Somme",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "yael.menache@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Somme (5e circonscription)"
   },
   {
     "nom": "Mme Zahia Hamdane",
     "region": "Hauts-de-France",
     "departement": "Somme",
-    "email": null,
-    "groupe": null,
-    "circonscription": null
+    "email": "zahia.hamdane@assemblee-nationale.fr",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "circonscription": "Somme (2e circonscription)"
   },
   {
     "nom": "M. Alexis Corbière",
@@ -3163,9 +3179,9 @@
     "nom": "M. David Habib",
     "region": "Nouvelle-Aquitaine",
     "departement": "Pyrénées-Atlantiques",
-    "email": "David.Habib@assemblee-nationale.fr",
-    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
-    "circonscription": "Pyrénées-Atlantiques (3e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Fabrice Barusseau",
@@ -3203,9 +3219,9 @@
     "nom": "M. Jean-Paul Mattei",
     "region": "Nouvelle-Aquitaine",
     "departement": "Pyrénées-Atlantiques",
-    "email": "Jean-Paul.Mattei@assemblee-nationale.fr",
-    "groupe": "Les Démocrates",
-    "circonscription": "Pyrénées-Atlantiques (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Lionel Causse",
@@ -3243,9 +3259,9 @@
     "nom": "M. Nicolas Turquois",
     "region": "Nouvelle-Aquitaine",
     "departement": "Vienne",
-    "email": "Nicolas.Turquois@assemblee-nationale.fr",
-    "groupe": "Les Démocrates",
-    "circonscription": "Vienne (4e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Pascal Lecamp",
@@ -3387,9 +3403,9 @@
     "nom": "Mme Hélène Laporte",
     "region": "Nouvelle-Aquitaine",
     "departement": "Lot-et-Garonne",
-    "email": "helene.laporte@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Lot-et-Garonne (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Josy Poueyto",
@@ -3507,9 +3523,9 @@
     "nom": "M. Alexandre Allegret-Pilot",
     "region": "Occitanie",
     "departement": "Gard",
-    "email": "alexandre.allegret-pilot@assemblee-nationale.fr",
-    "groupe": "Union des droites pour la République",
-    "circonscription": "Gard (5e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Arnaud Simion",
@@ -3526,6 +3542,14 @@
     "email": "Aurelien.Pradie@assemblee-nationale.fr",
     "groupe": "Non inscrit",
     "circonscription": "Lot (1re circonscription)"
+  },
+  {
+    "nom": "M. Benoit Gilhet",
+    "region": "Occitanie",
+    "departement": "Hérault",
+    "email": "benoit.gilhet@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Hérault (4e circonscription)"
   },
   {
     "nom": "M. Bernard Chaumeil",
@@ -3563,9 +3587,9 @@
     "nom": "M. David Taupiac",
     "region": "Occitanie",
     "departement": "Gers",
-    "email": "david.taupiac@assemblee-nationale.fr",
-    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
-    "circonscription": "Gers (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Denis Fégné",
@@ -3603,9 +3627,9 @@
     "nom": "M. Jacques Oberti",
     "region": "Occitanie",
     "departement": "Haute-Garonne",
-    "email": "jacques.oberti@assemblee-nationale.fr",
-    "groupe": "Socialistes et apparentés",
-    "circonscription": "Haute-Garonne (10e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Jean Terlier",
@@ -3627,9 +3651,9 @@
     "nom": "M. Jean-François Rousset",
     "region": "Occitanie",
     "departement": "Aveyron",
-    "email": "jean-francois.rousset@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Aveyron (3e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Jean-Louis Roumégas",
@@ -3643,9 +3667,9 @@
     "nom": "M. Jean-René Cazeneuve",
     "region": "Occitanie",
     "departement": "Gers",
-    "email": "Jean-Rene.Cazeneuve@assemblee-nationale.fr",
-    "groupe": "Ensemble pour la République",
-    "circonscription": "Gers (1re circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Joël Aviragnet",
@@ -3683,9 +3707,9 @@
     "nom": "M. Nicolas Meizonnet",
     "region": "Occitanie",
     "departement": "Gard",
-    "email": "nicolas.meizonnet@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Gard (2e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Philippe Bonnecarrère",
@@ -3699,9 +3723,9 @@
     "nom": "M. Pierre Meurin",
     "region": "Occitanie",
     "departement": "Gard",
-    "email": "pierre.meurin@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Gard (4e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Pierre-Henri Carbonnel",
@@ -3723,9 +3747,9 @@
     "nom": "M. Yoann Gillet",
     "region": "Occitanie",
     "departement": "Gard",
-    "email": "yoann.gillet@assemblee-nationale.fr",
-    "groupe": "Rassemblement National",
-    "circonscription": "Gard (1re circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "M. Édouard Jordan",
@@ -3771,9 +3795,9 @@
     "nom": "Mme Christine Arrighi",
     "region": "Occitanie",
     "departement": "Haute-Garonne",
-    "email": "christine.arrighi@assemblee-nationale.fr",
-    "groupe": "Écologiste et Social",
-    "circonscription": "Haute-Garonne (9e circonscription)"
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Corinne Vignon",
@@ -3798,6 +3822,14 @@
     "email": "karen.erodi@assemblee-nationale.fr",
     "groupe": "La France insoumise - Nouveau Front Populaire",
     "circonscription": "Tarn (2e circonscription)"
+  },
+  {
+    "nom": "Mme Laurence Gardet",
+    "region": "Occitanie",
+    "departement": "Gard",
+    "email": null,
+    "groupe": null,
+    "circonscription": null
   },
   {
     "nom": "Mme Marine Hamelet",
@@ -4454,6 +4486,14 @@
     "email": "monique.griseti@assemblee-nationale.fr",
     "groupe": "Rassemblement National",
     "circonscription": "Bouches-du-Rhône (1re circonscription)"
+  },
+  {
+    "nom": "Mme Muriel Fiol",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "departement": "Var",
+    "email": "muriel.fiol@assemblee-nationale.fr",
+    "groupe": "Rassemblement National",
+    "circonscription": "Var (6e circonscription)"
   },
   {
     "nom": "Mme Sophie Ricourt Vaginay",
